@@ -1,0 +1,117 @@
+{
+  "_comment": [
+    "Tool Registry — Configuration for the MCP Trading Agent",
+    "",
+    "HandoutWeek4 (Section 4.2) requires a YAML/JSON config describing:",
+    "  - Tool registry (names, schemas, expected costs)",
+    "  - Budgets (max trades, max tool calls, max runtime)",
+    "  - Environment toggles (data file path, server settings)",
+    "",
+    "This file is the single source of truth for what the agent can do",
+    "and what limits it must respect. A production system would load",
+    "these settings at startup instead of hardcoding them."
+  ],
+
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8765,
+    "protocol": "ws",
+    "mcp_version": "2024-11-05",
+    "transport": "websocket"
+  },
+
+  "data": {
+    "file": "btc_agent_replay.csv",
+    "description": "Historical BTC data with pre-computed volatility predictions",
+    "source": "Alpaca API → Transformer model → Phase 4 notebook",
+    "columns": [
+      "datetime", "price", "bid", "ask",
+      "realized_vol", "predicted_vol", "vol_surprise",
+      "momentum", "signal", "spread_bps"
+    ]
+  },
+
+  "budgets": {
+    "max_trades_per_session": 500,
+    "max_tool_calls_per_session": 50000,
+    "max_runtime_seconds": 3600,
+    "_note": "These limits prevent runaway costs. The handout (Section 5.4) says: Track budgets per loop. Abort if any limit is exceeded."
+  },
+
+  "tools": [
+    {
+      "name": "get_market_data",
+      "description": "Fetch current BTC market data from historical replay",
+      "expected_latency_ms": 5,
+      "expected_cost_usd": 0.0,
+      "side_effects": ["updates last_price in state.json"],
+      "phase": "observe"
+    },
+    {
+      "name": "run_prediction",
+      "description": "Get volatility prediction and advance replay time",
+      "expected_latency_ms": 5,
+      "expected_cost_usd": 0.0,
+      "side_effects": ["appends to prediction_log.json", "advances replay index"],
+      "phase": "observe"
+    },
+    {
+      "name": "execute_trade",
+      "description": "Execute a paper trade at historical bid/ask prices",
+      "expected_latency_ms": 10,
+      "expected_cost_usd": 0.0,
+      "side_effects": ["updates state.json", "appends to trade_journal.json"],
+      "phase": "act"
+    },
+    {
+      "name": "get_performance",
+      "description": "Get portfolio performance metrics",
+      "expected_latency_ms": 5,
+      "expected_cost_usd": 0.0,
+      "side_effects": [],
+      "phase": "learn"
+    },
+    {
+      "name": "get_replay_status",
+      "description": "Get progress through historical data",
+      "expected_latency_ms": 1,
+      "expected_cost_usd": 0.0,
+      "side_effects": [],
+      "phase": "observe"
+    }
+  ],
+
+  "resources": [
+    {
+      "uri": "memory://trades/latest",
+      "description": "Most recent trade from the journal",
+      "phase": "observe"
+    },
+    {
+      "uri": "memory://performance",
+      "description": "Current P&L, position, win rate",
+      "phase": "observe"
+    },
+    {
+      "uri": "memory://state",
+      "description": "Current portfolio state (cash + BTC)",
+      "phase": "observe"
+    },
+    {
+      "uri": "memory://replay/progress",
+      "description": "How far through historical data",
+      "phase": "observe"
+    }
+  ],
+
+  "memory": {
+    "directory": "memory",
+    "files": {
+      "state.json": "Portfolio state (position, cash, last price)",
+      "trade_journal.json": "Complete trade history",
+      "prediction_log.json": "All model predictions",
+      "trace.jsonl": "Cycle-by-cycle agent trace (for --replay)",
+      "summary.json": "Final run summary"
+    }
+  }
+}

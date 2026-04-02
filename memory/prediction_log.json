@@ -1,0 +1,4979 @@
+[
+  {
+    "datetime": "2025-06-17 22:00:00",
+    "predicted_vol": 0.0041672484949231,
+    "realized_vol": 0.00344511319805,
+    "vol_surprise": 1.20961148599754,
+    "momentum": 0.0063643934443732,
+    "signal": "LONG",
+    "replay_index": 0
+  },
+  {
+    "datetime": "2025-06-17 23:00:00",
+    "predicted_vol": 0.0042289858683943,
+    "realized_vol": 0.0031568047439654,
+    "vol_surprise": 1.339641254809463,
+    "momentum": 0.0070433461614958,
+    "signal": "LONG",
+    "replay_index": 1
+  },
+  {
+    "datetime": "2025-06-18 00:00:00",
+    "predicted_vol": 0.0041942838579416,
+    "realized_vol": 0.0030290977718823,
+    "vol_surprise": 1.3846644030031232,
+    "momentum": 0.004098155150908,
+    "signal": "LONG",
+    "replay_index": 2
+  },
+  {
+    "datetime": "2025-06-18 01:00:00",
+    "predicted_vol": 0.0041207154281437,
+    "realized_vol": 0.0030311446652887,
+    "vol_surprise": 1.3594585158973909,
+    "momentum": 0.0010644327829017,
+    "signal": "LONG",
+    "replay_index": 3
+  },
+  {
+    "datetime": "2025-06-18 02:00:00",
+    "predicted_vol": 0.0040250527672469,
+    "realized_vol": 0.002946045878057,
+    "vol_surprise": 1.3662559694764418,
+    "momentum": 0.0050350301225727,
+    "signal": "LONG",
+    "replay_index": 4
+  },
+  {
+    "datetime": "2025-06-18 03:00:00",
+    "predicted_vol": 0.004037341568619,
+    "realized_vol": 0.0030238445544407,
+    "vol_surprise": 1.335168358006324,
+    "momentum": 0.0056669326939726,
+    "signal": "LONG",
+    "replay_index": 5
+  },
+  {
+    "datetime": "2025-06-18 04:00:00",
+    "predicted_vol": 0.0040203053504228,
+    "realized_vol": 0.0030713555123188,
+    "vol_surprise": 1.30896776172538,
+    "momentum": 0.0108532205027382,
+    "signal": "LONG",
+    "replay_index": 6
+  },
+  {
+    "datetime": "2025-06-18 05:00:00",
+    "predicted_vol": 0.0039535844698548,
+    "realized_vol": 0.0030638142541354,
+    "vol_surprise": 1.290412584417734,
+    "momentum": 0.0079373120551347,
+    "signal": "LONG",
+    "replay_index": 7
+  },
+  {
+    "datetime": "2025-06-18 06:00:00",
+    "predicted_vol": 0.0041121244430541,
+    "realized_vol": 0.0031113094503206,
+    "vol_surprise": 1.3216700263068966,
+    "momentum": 0.0014388934488527,
+    "signal": "LONG",
+    "replay_index": 8
+  },
+  {
+    "datetime": "2025-06-18 07:00:00",
+    "predicted_vol": 0.0040559396147727,
+    "realized_vol": 0.0031098698757641,
+    "vol_surprise": 1.304215216971482,
+    "momentum": 0.0016658057598289,
+    "signal": "LONG",
+    "replay_index": 9
+  },
+  {
+    "datetime": "2025-06-18 08:00:00",
+    "predicted_vol": 0.0041280556470155,
+    "realized_vol": 0.0030876518171028,
+    "vol_surprise": 1.3369563317177715,
+    "momentum": 0.0004623552442844,
+    "signal": "LONG",
+    "replay_index": 10
+  },
+  {
+    "datetime": "2025-06-18 09:00:00",
+    "predicted_vol": 0.0042035561054944,
+    "realized_vol": 0.0030399532705525,
+    "vol_surprise": 1.3827699742011217,
+    "momentum": -0.0044310204753372,
+    "signal": "SHORT",
+    "replay_index": 11
+  },
+  {
+    "datetime": "2025-06-18 10:00:00",
+    "predicted_vol": 0.0042164856567978,
+    "realized_vol": 0.0031153710459381,
+    "vol_surprise": 1.3534457355554437,
+    "momentum": -0.0108088828786741,
+    "signal": "SHORT",
+    "replay_index": 12
+  },
+  {
+    "datetime": "2025-06-18 11:00:00",
+    "predicted_vol": 0.0042682974599301,
+    "realized_vol": 0.0032978612651307,
+    "vol_surprise": 1.294262286003402,
+    "momentum": -0.00542145943352,
+    "signal": "SHORT",
+    "replay_index": 13
+  },
+  {
+    "datetime": "2025-06-18 12:00:00",
+    "predicted_vol": 0.0041796481236815,
+    "realized_vol": 0.0033445580795818,
+    "vol_surprise": 1.249686213912025,
+    "momentum": -0.004516654317657,
+    "signal": "SHORT",
+    "replay_index": 14
+  },
+  {
+    "datetime": "2025-06-18 13:00:00",
+    "predicted_vol": 0.0042557059787213,
+    "realized_vol": 0.0033363673430915,
+    "vol_surprise": 1.2755507835590725,
+    "momentum": -0.0050207452037379,
+    "signal": "SHORT",
+    "replay_index": 15
+  },
+  {
+    "datetime": "2025-06-18 14:00:00",
+    "predicted_vol": 0.0044662454165518,
+    "realized_vol": 0.0031958899515999,
+    "vol_surprise": 1.397496623535459,
+    "momentum": -0.0029116056682484,
+    "signal": "SHORT",
+    "replay_index": 16
+  },
+  {
+    "datetime": "2025-06-18 15:00:00",
+    "predicted_vol": 0.0042860768735408,
+    "realized_vol": 0.0029930984901032,
+    "vol_surprise": 1.431986581033975,
+    "momentum": 0.0008181401995131,
+    "signal": "LONG",
+    "replay_index": 17
+  },
+  {
+    "datetime": "2025-06-18 16:00:00",
+    "predicted_vol": 0.0041442676447331,
+    "realized_vol": 0.0028203685041047,
+    "vol_surprise": 1.469406440577394,
+    "momentum": 0.0015569494489288,
+    "signal": "LONG",
+    "replay_index": 18
+  },
+  {
+    "datetime": "2025-06-18 17:00:00",
+    "predicted_vol": 0.0040952949784696,
+    "realized_vol": 0.0028095617048203,
+    "vol_surprise": 1.4576277045075618,
+    "momentum": -0.0049154701127815,
+    "signal": "SHORT",
+    "replay_index": 19
+  },
+  {
+    "datetime": "2025-06-18 18:00:00",
+    "predicted_vol": 0.0041329967789351,
+    "realized_vol": 0.0028886064863415,
+    "vol_surprise": 1.4307925979110188,
+    "momentum": -0.0082283632058786,
+    "signal": "SHORT",
+    "replay_index": 20
+  },
+  {
+    "datetime": "2025-06-18 19:00:00",
+    "predicted_vol": 0.0042762621305882,
+    "realized_vol": 0.0028512135336814,
+    "vol_surprise": 1.4998042342576832,
+    "momentum": -0.0059281634469039,
+    "signal": "SHORT",
+    "replay_index": 21
+  },
+  {
+    "datetime": "2025-06-18 20:00:00",
+    "predicted_vol": 0.0043472121469676,
+    "realized_vol": 0.0033817479450422,
+    "vol_surprise": 1.2854926557553896,
+    "momentum": 0.0011923105966615,
+    "signal": "LONG",
+    "replay_index": 22
+  },
+  {
+    "datetime": "2025-06-18 21:00:00",
+    "predicted_vol": 0.0042253290303051,
+    "realized_vol": 0.0034116944848079,
+    "vol_surprise": 1.2384839994085746,
+    "momentum": 0.0026922601401339,
+    "signal": "LONG",
+    "replay_index": 23
+  },
+  {
+    "datetime": "2025-06-18 22:00:00",
+    "predicted_vol": 0.0041940864175558,
+    "realized_vol": 0.0034017916535228,
+    "vol_surprise": 1.2329051407991105,
+    "momentum": 0.0033954977160583,
+    "signal": "LONG",
+    "replay_index": 24
+  },
+  {
+    "datetime": "2025-06-18 23:00:00",
+    "predicted_vol": 0.0042227199301123,
+    "realized_vol": 0.0033607236303651,
+    "vol_surprise": 1.2564912782350774,
+    "momentum": 0.0055288898601567,
+    "signal": "LONG",
+    "replay_index": 25
+  },
+  {
+    "datetime": "2025-06-19 00:00:00",
+    "predicted_vol": 0.0042632333934307,
+    "realized_vol": 0.003325777863516,
+    "vol_surprise": 1.2818755696821051,
+    "momentum": 0.0126478852814829,
+    "signal": "LONG",
+    "replay_index": 26
+  },
+  {
+    "datetime": "2025-06-19 01:00:00",
+    "predicted_vol": 0.0043247556313872,
+    "realized_vol": 0.0034210441165604,
+    "vol_surprise": 1.2641624849127715,
+    "momentum": 0.0071513344530536,
+    "signal": "LONG",
+    "replay_index": 27
+  },
+  {
+    "datetime": "2025-06-19 02:00:00",
+    "predicted_vol": 0.0043947137892246,
+    "realized_vol": 0.003431872135695,
+    "vol_surprise": 1.280558719981139,
+    "momentum": -0.0002761134597162,
+    "signal": "SHORT",
+    "replay_index": 28
+  },
+  {
+    "datetime": "2025-06-19 03:00:00",
+    "predicted_vol": 0.0043803951703011,
+    "realized_vol": 0.0034649393159625,
+    "vol_surprise": 1.2642054509068184,
+    "momentum": 0.0002075329937371,
+    "signal": "LONG",
+    "replay_index": 29
+  },
+  {
+    "datetime": "2025-06-19 04:00:00",
+    "predicted_vol": 0.0043620718643069,
+    "realized_vol": 0.0034333981422075,
+    "vol_surprise": 1.2704823861477077,
+    "momentum": 0.0026841488921684,
+    "signal": "LONG",
+    "replay_index": 30
+  },
+  {
+    "datetime": "2025-06-19 05:00:00",
+    "predicted_vol": 0.0043709059245884,
+    "realized_vol": 0.0034589708081936,
+    "vol_surprise": 1.263643484424481,
+    "momentum": -0.0004520112073173,
+    "signal": "SHORT",
+    "replay_index": 31
+  },
+  {
+    "datetime": "2025-06-19 06:00:00",
+    "predicted_vol": 0.0043691676110029,
+    "realized_vol": 0.0033763467742959,
+    "vol_surprise": 1.2940517971273724,
+    "momentum": -0.0026507350860296,
+    "signal": "SHORT",
+    "replay_index": 32
+  },
+  {
+    "datetime": "2025-06-19 07:00:00",
+    "predicted_vol": 0.0043442966416478,
+    "realized_vol": 0.0033784022946927,
+    "vol_surprise": 1.2859027027279688,
+    "momentum": 0.0005374579047774,
+    "signal": "LONG",
+    "replay_index": 33
+  },
+  {
+    "datetime": "2025-06-19 08:00:00",
+    "predicted_vol": 0.0043259924277663,
+    "realized_vol": 0.0033906504467804,
+    "vol_surprise": 1.275859159080823,
+    "momentum": 0.0001648393539629,
+    "signal": "LONG",
+    "replay_index": 34
+  },
+  {
+    "datetime": "2025-06-19 09:00:00",
+    "predicted_vol": 0.0044754217378795,
+    "realized_vol": 0.0033901836402427,
+    "vol_surprise": 1.3201118915077668,
+    "momentum": -0.0012349032783253,
+    "signal": "SHORT",
+    "replay_index": 35
+  },
+  {
+    "datetime": "2025-06-19 10:00:00",
+    "predicted_vol": 0.004409750457853,
+    "realized_vol": 0.0032672338283536,
+    "vol_surprise": 1.349689275246999,
+    "momentum": -0.0014448403175316,
+    "signal": "SHORT",
+    "replay_index": 36
+  },
+  {
+    "datetime": "2025-06-19 11:00:00",
+    "predicted_vol": 0.0043503139168024,
+    "realized_vol": 0.003106251018651,
+    "vol_surprise": 1.400503014946804,
+    "momentum": -0.000914670189951,
+    "signal": "SHORT",
+    "replay_index": 37
+  },
+  {
+    "datetime": "2025-06-19 12:00:00",
+    "predicted_vol": 0.0044143791310489,
+    "realized_vol": 0.0030377883963129,
+    "vol_surprise": 1.4531555708115638,
+    "momentum": 0.0002585831396513,
+    "signal": "LONG",
+    "replay_index": 38
+  },
+  {
+    "datetime": "2025-06-19 13:00:00",
+    "predicted_vol": 0.0048076659440994,
+    "realized_vol": 0.0031596619455028,
+    "vol_surprise": 1.521576050546242,
+    "momentum": -0.0032631342735535,
+    "signal": "SHORT",
+    "replay_index": 39
+  },
+  {
+    "datetime": "2025-06-19 14:00:00",
+    "predicted_vol": 0.0045440723188221,
+    "realized_vol": 0.0031403304780679,
+    "vol_surprise": 1.44700449540517,
+    "momentum": -0.0059182350497256,
+    "signal": "SHORT",
+    "replay_index": 40
+  },
+  {
+    "datetime": "2025-06-19 15:00:00",
+    "predicted_vol": 0.0042030345648527,
+    "realized_vol": 0.0031173984408547,
+    "vol_surprise": 1.3482506790823447,
+    "momentum": -0.0082921222826492,
+    "signal": "SHORT",
+    "replay_index": 41
+  },
+  {
+    "datetime": "2025-06-19 16:00:00",
+    "predicted_vol": 0.0040761767886579,
+    "realized_vol": 0.0030523574530949,
+    "vol_surprise": 1.3354192132788518,
+    "momentum": -0.0091495787860675,
+    "signal": "SHORT",
+    "replay_index": 42
+  },
+  {
+    "datetime": "2025-06-19 17:00:00",
+    "predicted_vol": 0.0041613294743001,
+    "realized_vol": 0.0032417823219379,
+    "vol_surprise": 1.2836548111634156,
+    "momentum": -0.0021840037706448,
+    "signal": "SHORT",
+    "replay_index": 43
+  },
+  {
+    "datetime": "2025-06-19 18:00:00",
+    "predicted_vol": 0.0039903684519231,
+    "realized_vol": 0.0029581618022208,
+    "vol_surprise": 1.3489351559226113,
+    "momentum": -0.0034413816873038,
+    "signal": "SHORT",
+    "replay_index": 44
+  },
+  {
+    "datetime": "2025-06-19 19:00:00",
+    "predicted_vol": 0.0040312595665454,
+    "realized_vol": 0.0029633172900201,
+    "vol_surprise": 1.3603874212599487,
+    "momentum": -0.0006324538433089,
+    "signal": "SHORT",
+    "replay_index": 45
+  },
+  {
+    "datetime": "2025-06-19 20:00:00",
+    "predicted_vol": 0.0038545362185686,
+    "realized_vol": 0.0022761872243773,
+    "vol_surprise": 1.693417912765569,
+    "momentum": 0.0009479613509486,
+    "signal": "LONG",
+    "replay_index": 46
+  },
+  {
+    "datetime": "2025-06-19 21:00:00",
+    "predicted_vol": 0.0037954901345074,
+    "realized_vol": 0.0021762171738931,
+    "vol_surprise": 1.7440769147674184,
+    "momentum": 0.0018547244888189,
+    "signal": "LONG",
+    "replay_index": 47
+  },
+  {
+    "datetime": "2025-06-19 22:00:00",
+    "predicted_vol": 0.0039066490717232,
+    "realized_vol": 0.0022103596510132,
+    "vol_surprise": 1.7674268845490404,
+    "momentum": 0.0062011060085212,
+    "signal": "LONG",
+    "replay_index": 48
+  },
+  {
+    "datetime": "2025-06-19 23:00:00",
+    "predicted_vol": 0.003753870492801,
+    "realized_vol": 0.0022074429552471,
+    "vol_surprise": 1.700551529034085,
+    "momentum": 0.0016841379665775,
+    "signal": "LONG",
+    "replay_index": 49
+  },
+  {
+    "datetime": "2025-06-20 00:00:00",
+    "predicted_vol": 0.0036168899387121,
+    "realized_vol": 0.0022013551961017,
+    "vol_surprise": 1.6430287784166493,
+    "momentum": 0.0032907004192111,
+    "signal": "LONG",
+    "replay_index": 50
+  },
+  {
+    "datetime": "2025-06-20 01:00:00",
+    "predicted_vol": 0.0036426596343517,
+    "realized_vol": 0.0020503423793702,
+    "vol_surprise": 1.7766104193147303,
+    "momentum": 0.0050852293657996,
+    "signal": "LONG",
+    "replay_index": 51
+  },
+  {
+    "datetime": "2025-06-20 02:00:00",
+    "predicted_vol": 0.0036236669402569,
+    "realized_vol": 0.0020440620180508,
+    "vol_surprise": 1.7727773953318549,
+    "momentum": 0.0034425221589134,
+    "signal": "LONG",
+    "replay_index": 52
+  },
+  {
+    "datetime": "2025-06-20 03:00:00",
+    "predicted_vol": 0.0035116802901029,
+    "realized_vol": 0.0018939108237497,
+    "vol_surprise": 1.8541951638198877,
+    "momentum": 0.0027899932150806,
+    "signal": "LONG",
+    "replay_index": 53
+  },
+  {
+    "datetime": "2025-06-20 04:00:00",
+    "predicted_vol": 0.0036550443619489,
+    "realized_vol": 0.002003681354011,
+    "vol_surprise": 1.8241644833556747,
+    "momentum": -0.0036012275909578,
+    "signal": "SHORT",
+    "replay_index": 54
+  },
+  {
+    "datetime": "2025-06-20 05:00:00",
+    "predicted_vol": 0.0035877500195056,
+    "realized_vol": 0.0020828010328907,
+    "vol_surprise": 1.7225601307323146,
+    "momentum": -0.00124843337789,
+    "signal": "SHORT",
+    "replay_index": 55
+  },
+  {
+    "datetime": "2025-06-20 06:00:00",
+    "predicted_vol": 0.0034425214398652,
+    "realized_vol": 0.0020805759875163,
+    "vol_surprise": 1.6546001975033178,
+    "momentum": 4.066665620072285e-05,
+    "signal": "LONG",
+    "replay_index": 56
+  },
+  {
+    "datetime": "2025-06-20 07:00:00",
+    "predicted_vol": 0.0039050688501447,
+    "realized_vol": 0.0029654106765695,
+    "vol_surprise": 1.3168728638497562,
+    "momentum": 0.0100658486498316,
+    "signal": "LONG",
+    "replay_index": 57
+  },
+  {
+    "datetime": "2025-06-20 08:00:00",
+    "predicted_vol": 0.0036070903297513,
+    "realized_vol": 0.002966034574942,
+    "vol_surprise": 1.2161322596254007,
+    "momentum": 0.0128344393165477,
+    "signal": "LONG",
+    "replay_index": 58
+  },
+  {
+    "datetime": "2025-06-20 09:00:00",
+    "predicted_vol": 0.0033760298974812,
+    "realized_vol": 0.0029471450976724,
+    "vol_surprise": 1.1455255121803918,
+    "momentum": 0.0125322940395554,
+    "signal": "LONG",
+    "replay_index": 59
+  },
+  {
+    "datetime": "2025-06-20 10:00:00",
+    "predicted_vol": 0.0032591014169156,
+    "realized_vol": 0.0029412984449823,
+    "vol_surprise": 1.1080485295449845,
+    "momentum": 0.0162827773111554,
+    "signal": "LONG",
+    "replay_index": 60
+  },
+  {
+    "datetime": "2025-06-20 11:00:00",
+    "predicted_vol": 0.00319205946289,
+    "realized_vol": 0.0029087516141696,
+    "vol_surprise": 1.0973984328329416,
+    "momentum": 0.0133593734862808,
+    "signal": "NEUTRAL",
+    "replay_index": 61
+  },
+  {
+    "datetime": "2025-06-20 12:00:00",
+    "predicted_vol": 0.0029169032350182,
+    "realized_vol": 0.0029058906307333,
+    "vol_surprise": 1.0037897518125594,
+    "momentum": 0.0120067509281039,
+    "signal": "NEUTRAL",
+    "replay_index": 62
+  },
+  {
+    "datetime": "2025-06-20 13:00:00",
+    "predicted_vol": 0.0028247267473489,
+    "realized_vol": 0.0028317606217772,
+    "vol_surprise": 0.9975160773215708,
+    "momentum": -0.001441825443039,
+    "signal": "NEUTRAL",
+    "replay_index": 63
+  },
+  {
+    "datetime": "2025-06-20 14:00:00",
+    "predicted_vol": 0.0032218310516327,
+    "realized_vol": 0.0045482438216321,
+    "vol_surprise": 0.7083681477912962,
+    "momentum": -0.0196916786417215,
+    "signal": "NEUTRAL",
+    "replay_index": 64
+  },
+  {
+    "datetime": "2025-06-20 15:00:00",
+    "predicted_vol": 0.0030049222987145,
+    "realized_vol": 0.0046075234958676,
+    "vol_surprise": 0.6521773142143612,
+    "momentum": -0.0159189151099383,
+    "signal": "NEUTRAL",
+    "replay_index": 65
+  },
+  {
+    "datetime": "2025-06-20 16:00:00",
+    "predicted_vol": 0.0028360721189528,
+    "realized_vol": 0.0047673649656143,
+    "vol_surprise": 0.5948930151999321,
+    "momentum": -0.0223258068417806,
+    "signal": "NEUTRAL",
+    "replay_index": 66
+  },
+  {
+    "datetime": "2025-06-20 17:00:00",
+    "predicted_vol": 0.0032997874077409,
+    "realized_vol": 0.0046696813243348,
+    "vol_surprise": 0.706640813056118,
+    "momentum": -0.0261180942513332,
+    "signal": "NEUTRAL",
+    "replay_index": 67
+  },
+  {
+    "datetime": "2025-06-20 18:00:00",
+    "predicted_vol": 0.0027362357359379,
+    "realized_vol": 0.004664834397481,
+    "vol_surprise": 0.5865665322257696,
+    "momentum": -0.0269393457794947,
+    "signal": "NEUTRAL",
+    "replay_index": 68
+  },
+  {
+    "datetime": "2025-06-20 19:00:00",
+    "predicted_vol": 0.0028517681639641,
+    "realized_vol": 0.0046756717165117,
+    "vol_surprise": 0.6099162509406657,
+    "momentum": -0.0225160749188661,
+    "signal": "NEUTRAL",
+    "replay_index": 69
+  },
+  {
+    "datetime": "2025-06-20 20:00:00",
+    "predicted_vol": 0.0025876148138195,
+    "realized_vol": 0.0047460018782826,
+    "vol_surprise": 0.5452199304134828,
+    "momentum": -0.001953078256937,
+    "signal": "NEUTRAL",
+    "replay_index": 70
+  },
+  {
+    "datetime": "2025-06-20 21:00:00",
+    "predicted_vol": 0.0025924434885382,
+    "realized_vol": 0.004752397416749,
+    "vol_surprise": 0.545502251011591,
+    "momentum": -0.0072711830036884,
+    "signal": "NEUTRAL",
+    "replay_index": 71
+  },
+  {
+    "datetime": "2025-06-20 22:00:00",
+    "predicted_vol": 0.0027004575822502,
+    "realized_vol": 0.0047538208088007,
+    "vol_surprise": 0.5680604488185347,
+    "momentum": -0.0051858480764052,
+    "signal": "NEUTRAL",
+    "replay_index": 72
+  },
+  {
+    "datetime": "2025-06-20 23:00:00",
+    "predicted_vol": 0.0026863391976803,
+    "realized_vol": 0.004779737952404,
+    "vol_surprise": 0.5620264592809315,
+    "momentum": 0.0005527465746693,
+    "signal": "NEUTRAL",
+    "replay_index": 73
+  },
+  {
+    "datetime": "2025-06-21 00:00:00",
+    "predicted_vol": 0.0028514517471194,
+    "realized_vol": 0.0047781220600263,
+    "vol_surprise": 0.5967724790822367,
+    "momentum": 0.00089215136836,
+    "signal": "NEUTRAL",
+    "replay_index": 74
+  },
+  {
+    "datetime": "2025-06-21 01:00:00",
+    "predicted_vol": 0.0027175114955753,
+    "realized_vol": 0.004810894222058,
+    "vol_surprise": 0.5648661912198039,
+    "momentum": 0.0018055614027129,
+    "signal": "NEUTRAL",
+    "replay_index": 75
+  },
+  {
+    "datetime": "2025-06-21 02:00:00",
+    "predicted_vol": 0.0025013468693941,
+    "realized_vol": 0.0048086567492514,
+    "vol_surprise": 0.520175799568886,
+    "momentum": -0.0016326764814562,
+    "signal": "NEUTRAL",
+    "replay_index": 76
+  },
+  {
+    "datetime": "2025-06-21 03:00:00",
+    "predicted_vol": 0.0024708181153982,
+    "realized_vol": 0.0048081395782759,
+    "vol_surprise": 0.5138823603544853,
+    "momentum": 7.554437119543548e-05,
+    "signal": "NEUTRAL",
+    "replay_index": 77
+  },
+  {
+    "datetime": "2025-06-21 04:00:00",
+    "predicted_vol": 0.0025183111429214,
+    "realized_vol": 0.0047730184951429,
+    "vol_surprise": 0.5276139502673374,
+    "momentum": 0.002518311991936,
+    "signal": "NEUTRAL",
+    "replay_index": 78
+  },
+  {
+    "datetime": "2025-06-21 05:00:00",
+    "predicted_vol": 0.0025218648370355,
+    "realized_vol": 0.0047265149002317,
+    "vol_surprise": 0.5335569421164544,
+    "momentum": 0.0015024725233664,
+    "signal": "NEUTRAL",
+    "replay_index": 79
+  },
+  {
+    "datetime": "2025-06-21 06:00:00",
+    "predicted_vol": 0.0024269446730613,
+    "realized_vol": 0.0047283826885795,
+    "vol_surprise": 0.5132716264534054,
+    "momentum": 0.0034488301824903,
+    "signal": "NEUTRAL",
+    "replay_index": 80
+  },
+  {
+    "datetime": "2025-06-21 07:00:00",
+    "predicted_vol": 0.0023484877310693,
+    "realized_vol": 0.0041287342427177,
+    "vol_surprise": 0.5688154269584144,
+    "momentum": -0.0006818291451176,
+    "signal": "NEUTRAL",
+    "replay_index": 81
+  },
+  {
+    "datetime": "2025-06-21 08:00:00",
+    "predicted_vol": 0.0023603795561939,
+    "realized_vol": 0.0042119092543765,
+    "vol_surprise": 0.5604060803877304,
+    "momentum": 0.0027883485587897,
+    "signal": "NEUTRAL",
+    "replay_index": 82
+  },
+  {
+    "datetime": "2025-06-21 09:00:00",
+    "predicted_vol": 0.0023423705715686,
+    "realized_vol": 0.0042216084572883,
+    "vol_surprise": 0.5548526338402283,
+    "momentum": 0.003537830333838,
+    "signal": "NEUTRAL",
+    "replay_index": 83
+  },
+  {
+    "datetime": "2025-06-21 10:00:00",
+    "predicted_vol": 0.0022966552060097,
+    "realized_vol": 0.0042169024822721,
+    "vol_surprise": 0.5446308553884921,
+    "momentum": 0.0049224173339879,
+    "signal": "NEUTRAL",
+    "replay_index": 84
+  },
+  {
+    "datetime": "2025-06-21 11:00:00",
+    "predicted_vol": 0.0021990232635289,
+    "realized_vol": 0.0042169761434829,
+    "vol_surprise": 0.5214692207655445,
+    "momentum": 0.0039987069470915,
+    "signal": "NEUTRAL",
+    "replay_index": 85
+  },
+  {
+    "datetime": "2025-06-21 12:00:00",
+    "predicted_vol": 0.0021839658729732,
+    "realized_vol": 0.0042137688833074,
+    "vol_surprise": 0.5182927525106683,
+    "momentum": 0.0019149659365637,
+    "signal": "NEUTRAL",
+    "replay_index": 86
+  },
+  {
+    "datetime": "2025-06-21 13:00:00",
+    "predicted_vol": 0.0022020521573722,
+    "realized_vol": 0.0041980981732406,
+    "vol_surprise": 0.5245356507878869,
+    "momentum": 0.0015701859870514,
+    "signal": "NEUTRAL",
+    "replay_index": 87
+  },
+  {
+    "datetime": "2025-06-21 14:00:00",
+    "predicted_vol": 0.0020931581966578,
+    "realized_vol": 0.002424512143986,
+    "vol_surprise": 0.8633317023591471,
+    "momentum": -0.0027160668508141,
+    "signal": "NEUTRAL",
+    "replay_index": 88
+  },
+  {
+    "datetime": "2025-06-21 15:00:00",
+    "predicted_vol": 0.0021484966855496,
+    "realized_vol": 0.0023061041950258,
+    "vol_surprise": 0.9316563797003612,
+    "momentum": -0.0026078398343804,
+    "signal": "NEUTRAL",
+    "replay_index": 89
+  },
+  {
+    "datetime": "2025-06-21 16:00:00",
+    "predicted_vol": 0.0021268867421895,
+    "realized_vol": 0.0019574408088033,
+    "vol_surprise": 1.0865650356445653,
+    "momentum": -0.0034474065518313,
+    "signal": "NEUTRAL",
+    "replay_index": 90
+  },
+  {
+    "datetime": "2025-06-21 17:00:00",
+    "predicted_vol": 0.0023247567005455,
+    "realized_vol": 0.0019093824845126,
+    "vol_surprise": 1.2175437448505444,
+    "momentum": -0.0065797366961207,
+    "signal": "SHORT",
+    "replay_index": 91
+  },
+  {
+    "datetime": "2025-06-21 18:00:00",
+    "predicted_vol": 0.0024881777353584,
+    "realized_vol": 0.0021752495763519,
+    "vol_surprise": 1.1438585081953123,
+    "momentum": -0.0110882152218792,
+    "signal": "SHORT",
+    "replay_index": 92
+  },
+  {
+    "datetime": "2025-06-21 19:00:00",
+    "predicted_vol": 0.0027778735384345,
+    "realized_vol": 0.0022713070654565,
+    "vol_surprise": 1.2230286167300273,
+    "momentum": -0.0127913244943786,
+    "signal": "SHORT",
+    "replay_index": 93
+  },
+  {
+    "datetime": "2025-06-21 20:00:00",
+    "predicted_vol": 0.002720380667597,
+    "realized_vol": 0.0023877223240769,
+    "vol_surprise": 1.1393203640832603,
+    "momentum": -0.0072090716100957,
+    "signal": "SHORT",
+    "replay_index": 94
+  },
+  {
+    "datetime": "2025-06-21 21:00:00",
+    "predicted_vol": 0.0032880285289138,
+    "realized_vol": 0.0035413048449513,
+    "vol_surprise": 0.9284793805880428,
+    "momentum": -0.0211725370437349,
+    "signal": "NEUTRAL",
+    "replay_index": 95
+  },
+  {
+    "datetime": "2025-06-21 22:00:00",
+    "predicted_vol": 0.0030578332953155,
+    "realized_vol": 0.0035997835412876,
+    "vol_surprise": 0.8494492127773111,
+    "momentum": -0.0163347384768353,
+    "signal": "NEUTRAL",
+    "replay_index": 96
+  },
+  {
+    "datetime": "2025-06-21 23:00:00",
+    "predicted_vol": 0.0033356184139847,
+    "realized_vol": 0.0036280965495997,
+    "vol_surprise": 0.9193852391697644,
+    "momentum": -0.010490802626826,
+    "signal": "NEUTRAL",
+    "replay_index": 97
+  },
+  {
+    "datetime": "2025-06-22 00:00:00",
+    "predicted_vol": 0.0037933483254164,
+    "realized_vol": 0.0039317666023579,
+    "vol_surprise": 0.9647948896919476,
+    "momentum": 0.0016164110115174,
+    "signal": "NEUTRAL",
+    "replay_index": 98
+  },
+  {
+    "datetime": "2025-06-22 01:00:00",
+    "predicted_vol": 0.0039560729637742,
+    "realized_vol": 0.0039988387515405,
+    "vol_surprise": 0.9893054483004808,
+    "momentum": 0.0008067092747012,
+    "signal": "NEUTRAL",
+    "replay_index": 99
+  },
+  {
+    "datetime": "2025-06-22 02:00:00",
+    "predicted_vol": 0.0040869042277336,
+    "realized_vol": 0.0039996398160263,
+    "vol_surprise": 1.0218180675563764,
+    "momentum": -0.0038562117698828,
+    "signal": "NEUTRAL",
+    "replay_index": 100
+  },
+  {
+    "datetime": "2025-06-22 03:00:00",
+    "predicted_vol": 0.0040408670902252,
+    "realized_vol": 0.0039995378305737,
+    "vol_surprise": 1.0103335088708345,
+    "momentum": 0.0092225987626798,
+    "signal": "NEUTRAL",
+    "replay_index": 101
+  },
+  {
+    "datetime": "2025-06-22 04:00:00",
+    "predicted_vol": 0.0041919653303921,
+    "realized_vol": 0.0040273600198812,
+    "vol_surprise": 1.0408717645550034,
+    "momentum": 0.007533248056963,
+    "signal": "NEUTRAL",
+    "replay_index": 102
+  },
+  {
+    "datetime": "2025-06-22 05:00:00",
+    "predicted_vol": 0.0042973794043064,
+    "realized_vol": 0.0040772082473886,
+    "vol_surprise": 1.054000468840116,
+    "momentum": 0.0076922402623523,
+    "signal": "NEUTRAL",
+    "replay_index": 103
+  },
+  {
+    "datetime": "2025-06-22 06:00:00",
+    "predicted_vol": 0.0043684276752173,
+    "realized_vol": 0.0040741294665619,
+    "vol_surprise": 1.072235850890569,
+    "momentum": -0.0010847882586212,
+    "signal": "NEUTRAL",
+    "replay_index": 104
+  },
+  {
+    "datetime": "2025-06-22 07:00:00",
+    "predicted_vol": 0.0045749507844448,
+    "realized_vol": 0.0040913951930101,
+    "vol_surprise": 1.1181884341705288,
+    "momentum": 0.0009110779867881,
+    "signal": "LONG",
+    "replay_index": 105
+  },
+  {
+    "datetime": "2025-06-22 08:00:00",
+    "predicted_vol": 0.0046304585412144,
+    "realized_vol": 0.0040431817324846,
+    "vol_surprise": 1.145251153073667,
+    "momentum": 0.0029667306426742,
+    "signal": "LONG",
+    "replay_index": 106
+  },
+  {
+    "datetime": "2025-06-22 09:00:00",
+    "predicted_vol": 0.0047567766159772,
+    "realized_vol": 0.0041200467476796,
+    "vol_surprise": 1.1545443309972605,
+    "momentum": -0.0014556701329411,
+    "signal": "SHORT",
+    "replay_index": 107
+  },
+  {
+    "datetime": "2025-06-22 10:00:00",
+    "predicted_vol": 0.0047674826346337,
+    "realized_vol": 0.0041731920076426,
+    "vol_surprise": 1.1424067298851246,
+    "momentum": -0.0010082774801278,
+    "signal": "SHORT",
+    "replay_index": 108
+  },
+  {
+    "datetime": "2025-06-22 11:00:00",
+    "predicted_vol": 0.0049252910539507,
+    "realized_vol": 0.0042150109298243,
+    "vol_surprise": 1.1685120479998543,
+    "momentum": -0.0016768907399517,
+    "signal": "SHORT",
+    "replay_index": 109
+  },
+  {
+    "datetime": "2025-06-22 12:00:00",
+    "predicted_vol": 0.0048397672362625,
+    "realized_vol": 0.0042194913936961,
+    "vol_surprise": 1.1470025139743458,
+    "momentum": 0.0006796417105344,
+    "signal": "LONG",
+    "replay_index": 110
+  },
+  {
+    "datetime": "2025-06-22 13:00:00",
+    "predicted_vol": 0.0058188177645206,
+    "realized_vol": 0.0056289201484021,
+    "vol_surprise": 1.0337360650199368,
+    "momentum": -0.0153092890674202,
+    "signal": "NEUTRAL",
+    "replay_index": 111
+  },
+  {
+    "datetime": "2025-06-22 14:00:00",
+    "predicted_vol": 0.0065228110179305,
+    "realized_vol": 0.0060832241263585,
+    "vol_surprise": 1.0722621561265873,
+    "momentum": -0.0301021588716979,
+    "signal": "NEUTRAL",
+    "replay_index": 112
+  },
+  {
+    "datetime": "2025-06-22 15:00:00",
+    "predicted_vol": 0.0067073493264615,
+    "realized_vol": 0.0061348580695792,
+    "vol_surprise": 1.0933177671576595,
+    "momentum": -0.0318505274879497,
+    "signal": "NEUTRAL",
+    "replay_index": 113
+  },
+  {
+    "datetime": "2025-06-22 16:00:00",
+    "predicted_vol": 0.0071561937220394,
+    "realized_vol": 0.006389470597915,
+    "vol_surprise": 1.1199979109966642,
+    "momentum": -0.027584240571159,
+    "signal": "SHORT",
+    "replay_index": 114
+  },
+  {
+    "datetime": "2025-06-22 17:00:00",
+    "predicted_vol": 0.0073722852393984,
+    "realized_vol": 0.0063833304284748,
+    "vol_surprise": 1.15492771712273,
+    "momentum": -0.0318286011082726,
+    "signal": "SHORT",
+    "replay_index": 115
+  },
+  {
+    "datetime": "2025-06-22 18:00:00",
+    "predicted_vol": 0.0072521972469985,
+    "realized_vol": 0.0063377913598037,
+    "vol_surprise": 1.1442783195726969,
+    "momentum": -0.0329169562106652,
+    "signal": "SHORT",
+    "replay_index": 116
+  },
+  {
+    "datetime": "2025-06-22 19:00:00",
+    "predicted_vol": 0.00725864386186,
+    "realized_vol": 0.0063872922822136,
+    "vol_surprise": 1.1364195563858637,
+    "momentum": -0.0201623127480102,
+    "signal": "SHORT",
+    "replay_index": 117
+  },
+  {
+    "datetime": "2025-06-22 20:00:00",
+    "predicted_vol": 0.0076082735322415,
+    "realized_vol": 0.0064652458533055,
+    "vol_surprise": 1.1767957019533422,
+    "momentum": -0.0011500163758505,
+    "signal": "SHORT",
+    "replay_index": 118
+  },
+  {
+    "datetime": "2025-06-22 21:00:00",
+    "predicted_vol": 0.0071801608428359,
+    "realized_vol": 0.0059827581310711,
+    "vol_surprise": 1.200142256386078,
+    "momentum": 0.0013041818222296,
+    "signal": "LONG",
+    "replay_index": 119
+  },
+  {
+    "datetime": "2025-06-22 22:00:00",
+    "predicted_vol": 0.0079057579860091,
+    "realized_vol": 0.0071357899074918,
+    "vol_surprise": 1.107902290916505,
+    "momentum": 0.0129730312212307,
+    "signal": "LONG",
+    "replay_index": 120
+  },
+  {
+    "datetime": "2025-06-22 23:00:00",
+    "predicted_vol": 0.0089437672868371,
+    "realized_vol": 0.0071024258477583,
+    "vol_surprise": 1.2592552852431247,
+    "momentum": 0.0148249567768705,
+    "signal": "LONG",
+    "replay_index": 121
+  },
+  {
+    "datetime": "2025-06-23 00:00:00",
+    "predicted_vol": 0.0094932550564408,
+    "realized_vol": 0.006925319234479,
+    "vol_surprise": 1.3708039636897602,
+    "momentum": 0.0146673902477748,
+    "signal": "LONG",
+    "replay_index": 122
+  },
+  {
+    "datetime": "2025-06-23 01:00:00",
+    "predicted_vol": 0.0088638179004192,
+    "realized_vol": 0.0068921575896767,
+    "vol_surprise": 1.2860730163360892,
+    "momentum": 0.0223596525645071,
+    "signal": "LONG",
+    "replay_index": 123
+  },
+  {
+    "datetime": "2025-06-23 02:00:00",
+    "predicted_vol": 0.0083908075466752,
+    "realized_vol": 0.0069120267035316,
+    "vol_surprise": 1.213943161184255,
+    "momentum": 0.0179382202240293,
+    "signal": "LONG",
+    "replay_index": 124
+  },
+  {
+    "datetime": "2025-06-23 03:00:00",
+    "predicted_vol": 0.0079924222081899,
+    "realized_vol": 0.0069143949117148,
+    "vol_surprise": 1.155910576448077,
+    "momentum": 0.0203915417581431,
+    "signal": "LONG",
+    "replay_index": 125
+  },
+  {
+    "datetime": "2025-06-23 04:00:00",
+    "predicted_vol": 0.0071726213209331,
+    "realized_vol": 0.0068917252499867,
+    "vol_surprise": 1.0407584546332382,
+    "momentum": 0.0015638350936624,
+    "signal": "NEUTRAL",
+    "replay_index": 126
+  },
+  {
+    "datetime": "2025-06-23 05:00:00",
+    "predicted_vol": 0.0073100365698337,
+    "realized_vol": 0.0069990596672742,
+    "vol_surprise": 1.0444312403869802,
+    "momentum": 0.0078928726102767,
+    "signal": "NEUTRAL",
+    "replay_index": 127
+  },
+  {
+    "datetime": "2025-06-23 06:00:00",
+    "predicted_vol": 0.0067117656581103,
+    "realized_vol": 0.0070059151179109,
+    "vol_surprise": 0.9580141273695242,
+    "momentum": 0.0103236967558591,
+    "signal": "NEUTRAL",
+    "replay_index": 128
+  },
+  {
+    "datetime": "2025-06-23 07:00:00",
+    "predicted_vol": 0.0067173275165259,
+    "realized_vol": 0.0069874607046834,
+    "vol_surprise": 0.9613402923359028,
+    "momentum": 0.0082410009093494,
+    "signal": "NEUTRAL",
+    "replay_index": 129
+  },
+  {
+    "datetime": "2025-06-23 08:00:00",
+    "predicted_vol": 0.0067098522558808,
+    "realized_vol": 0.0069666774832411,
+    "vol_surprise": 0.9631351920656442,
+    "momentum": 0.0053252859520258,
+    "signal": "NEUTRAL",
+    "replay_index": 130
+  },
+  {
+    "datetime": "2025-06-23 09:00:00",
+    "predicted_vol": 0.0071819312870502,
+    "realized_vol": 0.0069353541986929,
+    "vol_surprise": 1.0355536402746006,
+    "momentum": 0.0035829292506551,
+    "signal": "NEUTRAL",
+    "replay_index": 131
+  },
+  {
+    "datetime": "2025-06-23 10:00:00",
+    "predicted_vol": 0.0069041633978486,
+    "realized_vol": 0.006908502876973,
+    "vol_surprise": 0.9993718640345552,
+    "momentum": 0.0031275000493152,
+    "signal": "NEUTRAL",
+    "replay_index": 132
+  },
+  {
+    "datetime": "2025-06-23 11:00:00",
+    "predicted_vol": 0.0067190355621278,
+    "realized_vol": 0.0068854350835319,
+    "vol_surprise": 0.9758331144821812,
+    "momentum": -0.0048421252997699,
+    "signal": "NEUTRAL",
+    "replay_index": 133
+  },
+  {
+    "datetime": "2025-06-23 12:00:00",
+    "predicted_vol": 0.0065534627065062,
+    "realized_vol": 0.0069359656027837,
+    "vol_surprise": 0.9448522501143896,
+    "momentum": -0.0029253693427341,
+    "signal": "NEUTRAL",
+    "replay_index": 134
+  },
+  {
+    "datetime": "2025-06-23 13:00:00",
+    "predicted_vol": 0.0069153830409049,
+    "realized_vol": 0.0058997937623533,
+    "vol_surprise": 1.1721397932639894,
+    "momentum": 0.0042527383331416,
+    "signal": "LONG",
+    "replay_index": 135
+  },
+  {
+    "datetime": "2025-06-23 14:00:00",
+    "predicted_vol": 0.0065379324369132,
+    "realized_vol": 0.0054579003904944,
+    "vol_surprise": 1.197884162250335,
+    "momentum": -0.0018619400608817,
+    "signal": "SHORT",
+    "replay_index": 136
+  },
+  {
+    "datetime": "2025-06-23 15:00:00",
+    "predicted_vol": 0.0063579436391592,
+    "realized_vol": 0.0052861142084862,
+    "vol_surprise": 1.2027631996584969,
+    "momentum": -0.0009232980423919,
+    "signal": "SHORT",
+    "replay_index": 137
+  },
+  {
+    "datetime": "2025-06-23 16:00:00",
+    "predicted_vol": 0.006448530126363,
+    "realized_vol": 0.0053968938779787,
+    "vol_surprise": 1.194859538127174,
+    "momentum": -0.0075328114173536,
+    "signal": "SHORT",
+    "replay_index": 138
+  },
+  {
+    "datetime": "2025-06-23 17:00:00",
+    "predicted_vol": 0.0065838950686156,
+    "realized_vol": 0.006489185064915,
+    "vol_surprise": 1.0145950535780994,
+    "momentum": 0.0123993605902379,
+    "signal": "NEUTRAL",
+    "replay_index": 139
+  },
+  {
+    "datetime": "2025-06-23 18:00:00",
+    "predicted_vol": 0.005973772611469,
+    "realized_vol": 0.0064936243371749,
+    "vol_surprise": 0.9199442870863512,
+    "momentum": 0.0123576142039218,
+    "signal": "NEUTRAL",
+    "replay_index": 140
+  },
+  {
+    "datetime": "2025-06-23 19:00:00",
+    "predicted_vol": 0.0057760821655392,
+    "realized_vol": 0.0063094540794723,
+    "vol_surprise": 0.9154646492050152,
+    "momentum": 0.0087899008035069,
+    "signal": "NEUTRAL",
+    "replay_index": 141
+  },
+  {
+    "datetime": "2025-06-23 20:00:00",
+    "predicted_vol": 0.0062803379260003,
+    "realized_vol": 0.0062628977989578,
+    "vol_surprise": 1.0027846737408734,
+    "momentum": 0.020534951640146,
+    "signal": "NEUTRAL",
+    "replay_index": 142
+  },
+  {
+    "datetime": "2025-06-23 21:00:00",
+    "predicted_vol": 0.006176043767482,
+    "realized_vol": 0.0061619022290259,
+    "vol_surprise": 1.0022949955923453,
+    "momentum": 0.0227459340504836,
+    "signal": "NEUTRAL",
+    "replay_index": 143
+  },
+  {
+    "datetime": "2025-06-23 22:00:00",
+    "predicted_vol": 0.0064075556583702,
+    "realized_vol": 0.0060380713936837,
+    "vol_surprise": 1.0611924305951366,
+    "momentum": 0.047560672202228,
+    "signal": "NEUTRAL",
+    "replay_index": 144
+  },
+  {
+    "datetime": "2025-06-23 23:00:00",
+    "predicted_vol": 0.0061232103034853,
+    "realized_vol": 0.0060697516217089,
+    "vol_surprise": 1.0088073919837603,
+    "momentum": 0.0275932737550859,
+    "signal": "NEUTRAL",
+    "replay_index": 145
+  },
+  {
+    "datetime": "2025-06-24 00:00:00",
+    "predicted_vol": 0.005992523394525,
+    "realized_vol": 0.0061270267658672,
+    "vol_surprise": 0.9780475299877058,
+    "momentum": 0.0210495672837158,
+    "signal": "NEUTRAL",
+    "replay_index": 146
+  },
+  {
+    "datetime": "2025-06-24 01:00:00",
+    "predicted_vol": 0.0060854507610201,
+    "realized_vol": 0.0061392513455842,
+    "vol_surprise": 0.9912366212856316,
+    "momentum": 0.021349904023302,
+    "signal": "NEUTRAL",
+    "replay_index": 147
+  },
+  {
+    "datetime": "2025-06-24 02:00:00",
+    "predicted_vol": 0.0062359478324651,
+    "realized_vol": 0.0063654876109024,
+    "vol_surprise": 0.9796496692232284,
+    "momentum": 0.0099867514702149,
+    "signal": "NEUTRAL",
+    "replay_index": 148
+  },
+  {
+    "datetime": "2025-06-24 03:00:00",
+    "predicted_vol": 0.0060202591121196,
+    "realized_vol": 0.0063374237897286,
+    "vol_surprise": 0.9499536896801742,
+    "momentum": 0.0115217653292631,
+    "signal": "NEUTRAL",
+    "replay_index": 149
+  },
+  {
+    "datetime": "2025-06-24 04:00:00",
+    "predicted_vol": 0.0057144802995026,
+    "realized_vol": 0.0063511382215845,
+    "vol_surprise": 0.8997568782366885,
+    "momentum": -0.0071174042162721,
+    "signal": "NEUTRAL",
+    "replay_index": 150
+  },
+  {
+    "datetime": "2025-06-24 05:00:00",
+    "predicted_vol": 0.0060820872895419,
+    "realized_vol": 0.0063245114563707,
+    "vol_surprise": 0.9616691078036452,
+    "momentum": 1.383243888877523e-05,
+    "signal": "NEUTRAL",
+    "replay_index": 151
+  },
+  {
+    "datetime": "2025-06-24 06:00:00",
+    "predicted_vol": 0.0061751226894557,
+    "realized_vol": 0.0063300675326246,
+    "vol_surprise": 0.9755224028226744,
+    "momentum": 0.0057536734834798,
+    "signal": "NEUTRAL",
+    "replay_index": 152
+  },
+  {
+    "datetime": "2025-06-24 07:00:00",
+    "predicted_vol": 0.0064036101102828,
+    "realized_vol": 0.0065485979797333,
+    "vol_surprise": 0.9778597083071604,
+    "momentum": -0.0046891294956449,
+    "signal": "NEUTRAL",
+    "replay_index": 153
+  },
+  {
+    "datetime": "2025-06-24 08:00:00",
+    "predicted_vol": 0.0060058287344872,
+    "realized_vol": 0.0065377583354279,
+    "vol_surprise": 0.918637310581187,
+    "momentum": 0.002161830771179,
+    "signal": "NEUTRAL",
+    "replay_index": 154
+  },
+  {
+    "datetime": "2025-06-24 09:00:00",
+    "predicted_vol": 0.0058727953583002,
+    "realized_vol": 0.0064698112800215,
+    "vol_surprise": 0.9077228228333551,
+    "momentum": 0.0020973617268455,
+    "signal": "NEUTRAL",
+    "replay_index": 155
+  },
+  {
+    "datetime": "2025-06-24 10:00:00",
+    "predicted_vol": 0.0055004241876304,
+    "realized_vol": 0.0064533251891179,
+    "vol_surprise": 0.852339534493876,
+    "momentum": 0.0043544284841442,
+    "signal": "NEUTRAL",
+    "replay_index": 156
+  },
+  {
+    "datetime": "2025-06-24 11:00:00",
+    "predicted_vol": 0.0053983898833394,
+    "realized_vol": 0.00644307030517,
+    "vol_surprise": 0.8378598443986549,
+    "momentum": -0.0022187061718179,
+    "signal": "NEUTRAL",
+    "replay_index": 157
+  },
+  {
+    "datetime": "2025-06-24 12:00:00",
+    "predicted_vol": 0.005201687105,
+    "realized_vol": 0.0064335508795596,
+    "vol_surprise": 0.8085250590815276,
+    "momentum": -0.0047878542432186,
+    "signal": "NEUTRAL",
+    "replay_index": 158
+  },
+  {
+    "datetime": "2025-06-24 13:00:00",
+    "predicted_vol": 0.0050734104588627,
+    "realized_vol": 0.0063532840362287,
+    "vol_surprise": 0.7985492904035615,
+    "momentum": 0.0005201214809421,
+    "signal": "NEUTRAL",
+    "replay_index": 159
+  },
+  {
+    "datetime": "2025-06-24 14:00:00",
+    "predicted_vol": 0.0050208452157676,
+    "realized_vol": 0.0061514017837448,
+    "vol_surprise": 0.8162115550694864,
+    "momentum": 0.0044673191978139,
+    "signal": "NEUTRAL",
+    "replay_index": 160
+  },
+  {
+    "datetime": "2025-06-24 15:00:00",
+    "predicted_vol": 0.0049378992989659,
+    "realized_vol": 0.0061554557982041,
+    "vol_surprise": 0.8021988071795637,
+    "momentum": 0.0006352370514207,
+    "signal": "NEUTRAL",
+    "replay_index": 161
+  },
+  {
+    "datetime": "2025-06-24 16:00:00",
+    "predicted_vol": 0.0051094777882099,
+    "realized_vol": 0.0060413906200867,
+    "vol_surprise": 0.8457453108927704,
+    "momentum": 0.0087407318160628,
+    "signal": "NEUTRAL",
+    "replay_index": 162
+  },
+  {
+    "datetime": "2025-06-24 17:00:00",
+    "predicted_vol": 0.004999607335776,
+    "realized_vol": 0.0050171533323731,
+    "vol_surprise": 0.9965027984128224,
+    "momentum": 0.0081581602087157,
+    "signal": "NEUTRAL",
+    "replay_index": 163
+  },
+  {
+    "datetime": "2025-06-24 18:00:00",
+    "predicted_vol": 0.0049779023975133,
+    "realized_vol": 0.005132402225456,
+    "vol_surprise": 0.9698971707290748,
+    "momentum": 0.0034844297614178,
+    "signal": "NEUTRAL",
+    "replay_index": 164
+  },
+  {
+    "datetime": "2025-06-24 19:00:00",
+    "predicted_vol": 0.0048279985785484,
+    "realized_vol": 0.0051107878031354,
+    "vol_surprise": 0.9446681733854208,
+    "momentum": 0.0056501428944775,
+    "signal": "NEUTRAL",
+    "replay_index": 165
+  },
+  {
+    "datetime": "2025-06-24 20:00:00",
+    "predicted_vol": 0.0048419823870062,
+    "realized_vol": 0.0050837469760958,
+    "vol_surprise": 0.9524436227400144,
+    "momentum": 0.0053058175032156,
+    "signal": "NEUTRAL",
+    "replay_index": 166
+  },
+  {
+    "datetime": "2025-06-24 21:00:00",
+    "predicted_vol": 0.004654062911868,
+    "realized_vol": 0.0050892869579612,
+    "vol_surprise": 0.9144823135955654,
+    "momentum": 0.0071090282664165,
+    "signal": "NEUTRAL",
+    "replay_index": 167
+  },
+  {
+    "datetime": "2025-06-24 22:00:00",
+    "predicted_vol": 0.0044925697147846,
+    "realized_vol": 0.0036668032500734,
+    "vol_surprise": 1.2252006471016994,
+    "momentum": -0.0023409921185368,
+    "signal": "SHORT",
+    "replay_index": 168
+  },
+  {
+    "datetime": "2025-06-24 23:00:00",
+    "predicted_vol": 0.00446821982041,
+    "realized_vol": 0.0036472893172032,
+    "vol_surprise": 1.2250796226486949,
+    "momentum": -0.0001692181190314,
+    "signal": "SHORT",
+    "replay_index": 169
+  },
+  {
+    "datetime": "2025-06-25 00:00:00",
+    "predicted_vol": 0.004558905493468,
+    "realized_vol": 0.0036196824547129,
+    "vol_surprise": 1.259476639320158,
+    "momentum": 0.0071969622992225,
+    "signal": "LONG",
+    "replay_index": 170
+  },
+  {
+    "datetime": "2025-06-25 01:00:00",
+    "predicted_vol": 0.004576348233968,
+    "realized_vol": 0.0035585459436396,
+    "vol_surprise": 1.2860163410697414,
+    "momentum": 0.0068833180628489,
+    "signal": "LONG",
+    "replay_index": 171
+  },
+  {
+    "datetime": "2025-06-25 02:00:00",
+    "predicted_vol": 0.0045318268239498,
+    "realized_vol": 0.0032482723758356,
+    "vol_surprise": 1.3951498826461235,
+    "momentum": 0.0040448208063731,
+    "signal": "LONG",
+    "replay_index": 172
+  },
+  {
+    "datetime": "2025-06-25 03:00:00",
+    "predicted_vol": 0.0045050610788166,
+    "realized_vol": 0.0032964274459039,
+    "vol_surprise": 1.3666495479566718,
+    "momentum": 0.0023076208870716,
+    "signal": "LONG",
+    "replay_index": 173
+  },
+  {
+    "datetime": "2025-06-25 04:00:00",
+    "predicted_vol": 0.0045248311944305,
+    "realized_vol": 0.0032802896111725,
+    "vol_surprise": 1.3793999100015952,
+    "momentum": 0.0024215664142244,
+    "signal": "LONG",
+    "replay_index": 174
+  },
+  {
+    "datetime": "2025-06-25 05:00:00",
+    "predicted_vol": 0.0045010265894234,
+    "realized_vol": 0.003107729170899,
+    "vol_surprise": 1.4483329601470112,
+    "momentum": 0.0019019149174049,
+    "signal": "LONG",
+    "replay_index": 175
+  },
+  {
+    "datetime": "2025-06-25 06:00:00",
+    "predicted_vol": 0.0044767507351934,
+    "realized_vol": 0.0030760054400903,
+    "vol_surprise": 1.455378029195546,
+    "momentum": 0.0005816193423186,
+    "signal": "LONG",
+    "replay_index": 176
+  },
+  {
+    "datetime": "2025-06-25 07:00:00",
+    "predicted_vol": 0.0045293676666915,
+    "realized_vol": 0.0026883625457711,
+    "vol_surprise": 1.6848053748615075,
+    "momentum": 0.0020819462784914,
+    "signal": "LONG",
+    "replay_index": 177
+  },
+  {
+    "datetime": "2025-06-25 08:00:00",
+    "predicted_vol": 0.0045145228505134,
+    "realized_vol": 0.0026882904748917,
+    "vol_surprise": 1.6793285147860806,
+    "momentum": 0.0013346234540344,
+    "signal": "LONG",
+    "replay_index": 178
+  },
+  {
+    "datetime": "2025-06-25 09:00:00",
+    "predicted_vol": 0.0045203622430562,
+    "realized_vol": 0.0026870920801225,
+    "vol_surprise": 1.6822505921904063,
+    "momentum": 0.003398194737603,
+    "signal": "LONG",
+    "replay_index": 179
+  },
+  {
+    "datetime": "2025-06-25 10:00:00",
+    "predicted_vol": 0.0045650536194443,
+    "realized_vol": 0.0027843735198678,
+    "vol_surprise": 1.6395263016511443,
+    "momentum": 0.007699528869183,
+    "signal": "LONG",
+    "replay_index": 180
+  },
+  {
+    "datetime": "2025-06-25 11:00:00",
+    "predicted_vol": 0.0046869777143001,
+    "realized_vol": 0.0027611253128921,
+    "vol_surprise": 1.6974882278670669,
+    "momentum": 0.0090490828602538,
+    "signal": "LONG",
+    "replay_index": 181
+  },
+  {
+    "datetime": "2025-06-25 12:00:00",
+    "predicted_vol": 0.0045716608874499,
+    "realized_vol": 0.0027635972719526,
+    "vol_surprise": 1.6542427993568678,
+    "momentum": 0.0074491569638235,
+    "signal": "LONG",
+    "replay_index": 182
+  },
+  {
+    "datetime": "2025-06-25 13:00:00",
+    "predicted_vol": 0.0049155009910464,
+    "realized_vol": 0.0029949723149237,
+    "vol_surprise": 1.64125089455844,
+    "momentum": 0.0126672111748518,
+    "signal": "LONG",
+    "replay_index": 183
+  },
+  {
+    "datetime": "2025-06-25 14:00:00",
+    "predicted_vol": 0.0047812624834477,
+    "realized_vol": 0.0030276226142417,
+    "vol_surprise": 1.5792134927771704,
+    "momentum": 0.0093291191557294,
+    "signal": "LONG",
+    "replay_index": 184
+  },
+  {
+    "datetime": "2025-06-25 15:00:00",
+    "predicted_vol": 0.0047993184998631,
+    "realized_vol": 0.0032597587741916,
+    "vol_surprise": 1.472292532153166,
+    "momentum": 0.0037300797876918,
+    "signal": "LONG",
+    "replay_index": 185
+  },
+  {
+    "datetime": "2025-06-25 16:00:00",
+    "predicted_vol": 0.004643443506211,
+    "realized_vol": 0.002716670103759,
+    "vol_surprise": 1.7092408459113066,
+    "momentum": 0.0007593405059023,
+    "signal": "LONG",
+    "replay_index": 186
+  },
+  {
+    "datetime": "2025-06-25 17:00:00",
+    "predicted_vol": 0.0045932177454233,
+    "realized_vol": 0.0027242605431817,
+    "vol_surprise": 1.686042018601767,
+    "momentum": 0.0022006708959799,
+    "signal": "LONG",
+    "replay_index": 187
+  },
+  {
+    "datetime": "2025-06-25 18:00:00",
+    "predicted_vol": 0.0045134495012462,
+    "realized_vol": 0.0025203989749949,
+    "vol_surprise": 1.7907678689066722,
+    "momentum": 0.0017035392414821,
+    "signal": "LONG",
+    "replay_index": 188
+  },
+  {
+    "datetime": "2025-06-25 19:00:00",
+    "predicted_vol": 0.0045165983028709,
+    "realized_vol": 0.0025710189762747,
+    "vol_surprise": 1.7567347205718624,
+    "momentum": -0.0021304129130149,
+    "signal": "SHORT",
+    "replay_index": 189
+  },
+  {
+    "datetime": "2025-06-25 20:00:00",
+    "predicted_vol": 0.0044584581628441,
+    "realized_vol": 0.0024818688036399,
+    "vol_surprise": 1.7964117024660544,
+    "momentum": 0.0014527266808702,
+    "signal": "LONG",
+    "replay_index": 190
+  },
+  {
+    "datetime": "2025-06-25 21:00:00",
+    "predicted_vol": 0.0043956884182989,
+    "realized_vol": 0.0025294175110048,
+    "vol_surprise": 1.7378263569278185,
+    "momentum": 0.0052846583004823,
+    "signal": "LONG",
+    "replay_index": 191
+  },
+  {
+    "datetime": "2025-06-25 22:00:00",
+    "predicted_vol": 0.0042939353734254,
+    "realized_vol": 0.0026062690201619,
+    "vol_surprise": 1.6475411172860055,
+    "momentum": 0.0015432252334194,
+    "signal": "LONG",
+    "replay_index": 192
+  },
+  {
+    "datetime": "2025-06-25 23:00:00",
+    "predicted_vol": 0.0042572733946144,
+    "realized_vol": 0.0026067157612187,
+    "vol_surprise": 1.633194327495055,
+    "momentum": -0.0004786140634309,
+    "signal": "SHORT",
+    "replay_index": 193
+  },
+  {
+    "datetime": "2025-06-26 00:00:00",
+    "predicted_vol": 0.004250272642821,
+    "realized_vol": 0.0025722596771468,
+    "vol_surprise": 1.6523497532471008,
+    "momentum": -0.0008976511971556,
+    "signal": "SHORT",
+    "replay_index": 194
+  },
+  {
+    "datetime": "2025-06-26 01:00:00",
+    "predicted_vol": 0.0042735282331705,
+    "realized_vol": 0.0026269669931683,
+    "vol_surprise": 1.6267917504423046,
+    "momentum": -0.0011109903215109,
+    "signal": "SHORT",
+    "replay_index": 195
+  },
+  {
+    "datetime": "2025-06-26 02:00:00",
+    "predicted_vol": 0.0042736544273793,
+    "realized_vol": 0.0026811042791146,
+    "vol_surprise": 1.5939903795128236,
+    "momentum": 0.0014284718800815,
+    "signal": "LONG",
+    "replay_index": 196
+  },
+  {
+    "datetime": "2025-06-26 03:00:00",
+    "predicted_vol": 0.0043386057950556,
+    "realized_vol": 0.0026255759577759,
+    "vol_surprise": 1.652439641750369,
+    "momentum": 0.0027880542792938,
+    "signal": "LONG",
+    "replay_index": 197
+  },
+  {
+    "datetime": "2025-06-26 04:00:00",
+    "predicted_vol": 0.0041847587563097,
+    "realized_vol": 0.0026262695071649,
+    "vol_surprise": 1.5934231977689062,
+    "momentum": 0.0051469523467225,
+    "signal": "LONG",
+    "replay_index": 198
+  },
+  {
+    "datetime": "2025-06-26 05:00:00",
+    "predicted_vol": 0.0042048711329698,
+    "realized_vol": 0.0026901584959008,
+    "vol_surprise": 1.563057024103602,
+    "momentum": 0.0021178065001214,
+    "signal": "LONG",
+    "replay_index": 199
+  },
+  {
+    "datetime": "2025-06-26 06:00:00",
+    "predicted_vol": 0.0041423002257943,
+    "realized_vol": 0.0026874423391584,
+    "vol_surprise": 1.5413540843043243,
+    "momentum": 0.0044589392498677,
+    "signal": "LONG",
+    "replay_index": 200
+  },
+  {
+    "datetime": "2025-06-26 07:00:00",
+    "predicted_vol": 0.0042588864453136,
+    "realized_vol": 0.002673537489232,
+    "vol_surprise": 1.592978016005706,
+    "momentum": 0.0020168169067955,
+    "signal": "LONG",
+    "replay_index": 201
+  },
+  {
+    "datetime": "2025-06-26 08:00:00",
+    "predicted_vol": 0.0042775296606123,
+    "realized_vol": 0.0026798547558758,
+    "vol_surprise": 1.5961796628095009,
+    "momentum": -0.0015716001415854,
+    "signal": "SHORT",
+    "replay_index": 202
+  },
+  {
+    "datetime": "2025-06-26 09:00:00",
+    "predicted_vol": 0.0043456819839775,
+    "realized_vol": 0.00281949280321,
+    "vol_surprise": 1.5412991936102391,
+    "momentum": -0.0048275724287344,
+    "signal": "SHORT",
+    "replay_index": 203
+  },
+  {
+    "datetime": "2025-06-26 10:00:00",
+    "predicted_vol": 0.0042642010375857,
+    "realized_vol": 0.0026972961237604,
+    "vol_surprise": 1.5809169041628124,
+    "momentum": -0.0042493744362331,
+    "signal": "SHORT",
+    "replay_index": 204
+  },
+  {
+    "datetime": "2025-06-26 11:00:00",
+    "predicted_vol": 0.0042738784104585,
+    "realized_vol": 0.0026900775631161,
+    "vol_surprise": 1.5887565730661608,
+    "momentum": -0.0026941501582138,
+    "signal": "SHORT",
+    "replay_index": 205
+  },
+  {
+    "datetime": "2025-06-26 12:00:00",
+    "predicted_vol": 0.004242671187967,
+    "realized_vol": 0.002705666133079,
+    "vol_surprise": 1.5680690001241369,
+    "momentum": -0.0054719926703681,
+    "signal": "SHORT",
+    "replay_index": 206
+  },
+  {
+    "datetime": "2025-06-26 13:00:00",
+    "predicted_vol": 0.0042854831553995,
+    "realized_vol": 0.0022745689107526,
+    "vol_surprise": 1.8840858745323923,
+    "momentum": -0.00788947097275,
+    "signal": "SHORT",
+    "replay_index": 207
+  },
+  {
+    "datetime": "2025-06-26 14:00:00",
+    "predicted_vol": 0.00420523295179,
+    "realized_vol": 0.0023922249627134,
+    "vol_surprise": 1.7578752071126778,
+    "momentum": -0.0032117746796398,
+    "signal": "SHORT",
+    "replay_index": 208
+  },
+  {
+    "datetime": "2025-06-26 15:00:00",
+    "predicted_vol": 0.0041361842304468,
+    "realized_vol": 0.0020772721624216,
+    "vol_surprise": 1.9911614401191464,
+    "momentum": -0.0005757435066365,
+    "signal": "SHORT",
+    "replay_index": 209
+  },
+  {
+    "datetime": "2025-06-26 16:00:00",
+    "predicted_vol": 0.0040248399600386,
+    "realized_vol": 0.002083237501123,
+    "vol_surprise": 1.932012052331444,
+    "momentum": -0.0022474578251755,
+    "signal": "SHORT",
+    "replay_index": 210
+  },
+  {
+    "datetime": "2025-06-26 17:00:00",
+    "predicted_vol": 0.0039585437625646,
+    "realized_vol": 0.0020007882962599,
+    "vol_surprise": 1.9784920623357647,
+    "momentum": -0.0011255466682009,
+    "signal": "SHORT",
+    "replay_index": 211
+  },
+  {
+    "datetime": "2025-06-26 18:00:00",
+    "predicted_vol": 0.0038309057708829,
+    "realized_vol": 0.0020244960732131,
+    "vol_surprise": 1.892276217065158,
+    "momentum": 0.0017510631450683,
+    "signal": "LONG",
+    "replay_index": 212
+  },
+  {
+    "datetime": "2025-06-26 19:00:00",
+    "predicted_vol": 0.0039674891158938,
+    "realized_vol": 0.0019336108724545,
+    "vol_surprise": 2.051854989239648,
+    "momentum": 0.0050756891878934,
+    "signal": "LONG",
+    "replay_index": 213
+  },
+  {
+    "datetime": "2025-06-26 20:00:00",
+    "predicted_vol": 0.0039079524576663,
+    "realized_vol": 0.0019828613524328,
+    "vol_surprise": 1.9708652109596507,
+    "momentum": 0.0029867617881673,
+    "signal": "LONG",
+    "replay_index": 214
+  },
+  {
+    "datetime": "2025-06-26 21:00:00",
+    "predicted_vol": 0.0039638467133045,
+    "realized_vol": 0.0023886278712011,
+    "vol_surprise": 1.6594659892799617,
+    "momentum": -0.0025427229330382,
+    "signal": "SHORT",
+    "replay_index": 215
+  },
+  {
+    "datetime": "2025-06-26 22:00:00",
+    "predicted_vol": 0.0037478064186871,
+    "realized_vol": 0.0023370512427159,
+    "vol_surprise": 1.6036475153756846,
+    "momentum": -0.0017274168772872,
+    "signal": "SHORT",
+    "replay_index": 216
+  },
+  {
+    "datetime": "2025-06-26 23:00:00",
+    "predicted_vol": 0.003579233540222,
+    "realized_vol": 0.0023295914612966,
+    "vol_surprise": 1.5364211277756978,
+    "momentum": -0.0024142862950025,
+    "signal": "SHORT",
+    "replay_index": 217
+  },
+  {
+    "datetime": "2025-06-27 00:00:00",
+    "predicted_vol": 0.0035548792220652,
+    "realized_vol": 0.0023787965765045,
+    "vol_surprise": 1.4944023617558666,
+    "momentum": -0.0065463507324023,
+    "signal": "SHORT",
+    "replay_index": 218
+  },
+  {
+    "datetime": "2025-06-27 01:00:00",
+    "predicted_vol": 0.003637874033302,
+    "realized_vol": 0.0024670635799176,
+    "vol_surprise": 1.4745765220301086,
+    "momentum": -0.003730355638097,
+    "signal": "SHORT",
+    "replay_index": 219
+  },
+  {
+    "datetime": "2025-06-27 02:00:00",
+    "predicted_vol": 0.0035566953010857,
+    "realized_vol": 0.0023796206842565,
+    "vol_surprise": 1.4946480019343358,
+    "momentum": -0.0047931853973773,
+    "signal": "SHORT",
+    "replay_index": 220
+  },
+  {
+    "datetime": "2025-06-27 03:00:00",
+    "predicted_vol": 0.00357555039227,
+    "realized_vol": 0.0024309929776859,
+    "vol_surprise": 1.4708188896841852,
+    "momentum": 0.0041778634440178,
+    "signal": "LONG",
+    "replay_index": 221
+  },
+  {
+    "datetime": "2025-06-27 04:00:00",
+    "predicted_vol": 0.00360341463238,
+    "realized_vol": 0.0024326214624314,
+    "vol_surprise": 1.4812886789128117,
+    "momentum": 0.0049393890145405,
+    "signal": "LONG",
+    "replay_index": 222
+  },
+  {
+    "datetime": "2025-06-27 05:00:00",
+    "predicted_vol": 0.0036811942700296,
+    "realized_vol": 0.0024232899561629,
+    "vol_surprise": 1.5190894761345637,
+    "momentum": 0.00320794834897,
+    "signal": "LONG",
+    "replay_index": 223
+  },
+  {
+    "datetime": "2025-06-27 06:00:00",
+    "predicted_vol": 0.0036401050165295,
+    "realized_vol": 0.002401530483293,
+    "vol_surprise": 1.5157438316328051,
+    "momentum": 0.0058325394318375,
+    "signal": "LONG",
+    "replay_index": 224
+  },
+  {
+    "datetime": "2025-06-27 07:00:00",
+    "predicted_vol": 0.0038457938935607,
+    "realized_vol": 0.0024913911783047,
+    "vol_surprise": 1.543633102280456,
+    "momentum": -0.00198459699774,
+    "signal": "SHORT",
+    "replay_index": 225
+  },
+  {
+    "datetime": "2025-06-27 08:00:00",
+    "predicted_vol": 0.0036169276572763,
+    "realized_vol": 0.0024998334534327,
+    "vol_surprise": 1.4468674512334594,
+    "momentum": -0.0024288264765435,
+    "signal": "SHORT",
+    "replay_index": 226
+  },
+  {
+    "datetime": "2025-06-27 09:00:00",
+    "predicted_vol": 0.0033611888065934,
+    "realized_vol": 0.0023943932505314,
+    "vol_surprise": 1.403774758322363,
+    "momentum": -0.0035806907515728,
+    "signal": "SHORT",
+    "replay_index": 227
+  },
+  {
+    "datetime": "2025-06-27 10:00:00",
+    "predicted_vol": 0.003211197676137,
+    "realized_vol": 0.0023956057738974,
+    "vol_surprise": 1.3404533045989362,
+    "momentum": -0.0046172411651371,
+    "signal": "SHORT",
+    "replay_index": 228
+  },
+  {
+    "datetime": "2025-06-27 11:00:00",
+    "predicted_vol": 0.0030932303052395,
+    "realized_vol": 0.002393704069422,
+    "vol_surprise": 1.2922358886186027,
+    "momentum": -0.0030916321334253,
+    "signal": "SHORT",
+    "replay_index": 229
+  },
+  {
+    "datetime": "2025-06-27 12:00:00",
+    "predicted_vol": 0.0030298419296741,
+    "realized_vol": 0.002439007980504,
+    "vol_surprise": 1.242243548972706,
+    "momentum": -0.005804850207908,
+    "signal": "SHORT",
+    "replay_index": 230
+  },
+  {
+    "datetime": "2025-06-27 13:00:00",
+    "predicted_vol": 0.0029564483556896,
+    "realized_vol": 0.0024318794280466,
+    "vol_surprise": 1.2157051544550963,
+    "momentum": -0.0008855630245054,
+    "signal": "SHORT",
+    "replay_index": 231
+  },
+  {
+    "datetime": "2025-06-27 14:00:00",
+    "predicted_vol": 0.0028525406960397,
+    "realized_vol": 0.0023046396162762,
+    "vol_surprise": 1.2377382892726605,
+    "momentum": -0.0042040007118097,
+    "signal": "SHORT",
+    "replay_index": 232
+  },
+  {
+    "datetime": "2025-06-27 15:00:00",
+    "predicted_vol": 0.0029064319096505,
+    "realized_vol": 0.002766027526475,
+    "vol_surprise": 1.0507602985985054,
+    "momentum": 0.001982874754776,
+    "signal": "NEUTRAL",
+    "replay_index": 233
+  },
+  {
+    "datetime": "2025-06-27 16:00:00",
+    "predicted_vol": 0.0025289631448686,
+    "realized_vol": 0.0027740178975781,
+    "vol_surprise": 0.9116607167807006,
+    "momentum": 0.0044938324859827,
+    "signal": "NEUTRAL",
+    "replay_index": 234
+  },
+  {
+    "datetime": "2025-06-27 17:00:00",
+    "predicted_vol": 0.0025661881081759,
+    "realized_vol": 0.0030197487081829,
+    "vol_surprise": 0.8498018729910014,
+    "momentum": -0.0007520446208749,
+    "signal": "NEUTRAL",
+    "replay_index": 235
+  },
+  {
+    "datetime": "2025-06-27 18:00:00",
+    "predicted_vol": 0.0025343187153339,
+    "realized_vol": 0.003014021016986,
+    "vol_surprise": 0.840843080075202,
+    "momentum": 0.0003271245758133,
+    "signal": "NEUTRAL",
+    "replay_index": 236
+  },
+  {
+    "datetime": "2025-06-27 19:00:00",
+    "predicted_vol": 0.0031007619109004,
+    "realized_vol": 0.0030115228295357,
+    "vol_surprise": 1.029632543538923,
+    "momentum": 0.000304503091173,
+    "signal": "NEUTRAL",
+    "replay_index": 237
+  },
+  {
+    "datetime": "2025-06-27 20:00:00",
+    "predicted_vol": 0.0025571277365088,
+    "realized_vol": 0.0030111514692839,
+    "vol_surprise": 0.8492192314446705,
+    "momentum": 0.0051193729599165,
+    "signal": "NEUTRAL",
+    "replay_index": 238
+  },
+  {
+    "datetime": "2025-06-27 21:00:00",
+    "predicted_vol": 0.0024010925553739,
+    "realized_vol": 0.0026734537311945,
+    "vol_surprise": 0.8981238490710756,
+    "momentum": -0.0019682124963746,
+    "signal": "NEUTRAL",
+    "replay_index": 239
+  },
+  {
+    "datetime": "2025-06-27 22:00:00",
+    "predicted_vol": 0.0023239883594214,
+    "realized_vol": 0.0026712993075949,
+    "vol_surprise": 0.86998426301912,
+    "momentum": -0.00368586482887,
+    "signal": "NEUTRAL",
+    "replay_index": 240
+  },
+  {
+    "datetime": "2025-06-27 23:00:00",
+    "predicted_vol": 0.0022754862438887,
+    "realized_vol": 0.0026739329397693,
+    "vol_surprise": 0.8509885233266123,
+    "momentum": 0.0014351228703541,
+    "signal": "NEUTRAL",
+    "replay_index": 241
+  },
+  {
+    "datetime": "2025-06-28 00:00:00",
+    "predicted_vol": 0.0024794549681246,
+    "realized_vol": 0.0026132216685199,
+    "vol_surprise": 0.9488115753796432,
+    "momentum": 0.0032853723442532,
+    "signal": "NEUTRAL",
+    "replay_index": 242
+  },
+  {
+    "datetime": "2025-06-28 01:00:00",
+    "predicted_vol": 0.0024574105627834,
+    "realized_vol": 0.0024643493389058,
+    "vol_surprise": 0.9971843374586374,
+    "momentum": 0.0024436712676471,
+    "signal": "NEUTRAL",
+    "replay_index": 243
+  },
+  {
+    "datetime": "2025-06-28 02:00:00",
+    "predicted_vol": 0.0025905082002282,
+    "realized_vol": 0.0024534285583309,
+    "vol_surprise": 1.0558726853617884,
+    "momentum": 0.0004413731259839,
+    "signal": "NEUTRAL",
+    "replay_index": 244
+  },
+  {
+    "datetime": "2025-06-28 03:00:00",
+    "predicted_vol": 0.0025357927661389,
+    "realized_vol": 0.0024499226747379,
+    "vol_surprise": 1.0350501231269074,
+    "momentum": 0.0024042481375508,
+    "signal": "NEUTRAL",
+    "replay_index": 245
+  },
+  {
+    "datetime": "2025-06-28 04:00:00",
+    "predicted_vol": 0.0025767649058252,
+    "realized_vol": 0.0024616088428726,
+    "vol_surprise": 1.0467808129979952,
+    "momentum": 0.001077874549756,
+    "signal": "NEUTRAL",
+    "replay_index": 246
+  },
+  {
+    "datetime": "2025-06-28 05:00:00",
+    "predicted_vol": 0.0024850941263139,
+    "realized_vol": 0.0024306127317075,
+    "vol_surprise": 1.022414675071711,
+    "momentum": 0.0022072308714644,
+    "signal": "NEUTRAL",
+    "replay_index": 247
+  },
+  {
+    "datetime": "2025-06-28 06:00:00",
+    "predicted_vol": 0.0024857828393578,
+    "realized_vol": 0.0024441138105326,
+    "vol_surprise": 1.0170487268823512,
+    "momentum": 0.0032419406198751,
+    "signal": "NEUTRAL",
+    "replay_index": 248
+  },
+  {
+    "datetime": "2025-06-28 07:00:00",
+    "predicted_vol": 0.0024167897645384,
+    "realized_vol": 0.0023219040360943,
+    "vol_surprise": 1.0408654823666528,
+    "momentum": 0.003255651558849,
+    "signal": "NEUTRAL",
+    "replay_index": 249
+  },
+  {
+    "datetime": "2025-06-28 08:00:00",
+    "predicted_vol": 0.0024447368923574,
+    "realized_vol": 0.0023331137164681,
+    "vol_surprise": 1.0478430070088034,
+    "momentum": 0.0020888312638134,
+    "signal": "NEUTRAL",
+    "replay_index": 250
+  },
+  {
+    "datetime": "2025-06-28 09:00:00",
+    "predicted_vol": 0.0023306435905396,
+    "realized_vol": 0.0023262726565487,
+    "vol_surprise": 1.001878943114714,
+    "momentum": -0.000280660658404,
+    "signal": "NEUTRAL",
+    "replay_index": 251
+  },
+  {
+    "datetime": "2025-06-28 10:00:00",
+    "predicted_vol": 0.0023951900657266,
+    "realized_vol": 0.002320324841997,
+    "vol_surprise": 1.0322649753063038,
+    "momentum": 0.0008005635273256,
+    "signal": "NEUTRAL",
+    "replay_index": 252
+  },
+  {
+    "datetime": "2025-06-28 11:00:00",
+    "predicted_vol": 0.0022965983953326,
+    "realized_vol": 0.0023170049985494,
+    "vol_surprise": 0.991192680538212,
+    "momentum": 0.0005812605945047,
+    "signal": "NEUTRAL",
+    "replay_index": 253
+  },
+  {
+    "datetime": "2025-06-28 13:00:00",
+    "predicted_vol": 0.0023397102486342,
+    "realized_vol": 0.0022820650190682,
+    "vol_surprise": 1.0252601170800535,
+    "momentum": -0.0026458878980495,
+    "signal": "NEUTRAL",
+    "replay_index": 254
+  },
+  {
+    "datetime": "2025-06-28 14:00:00",
+    "predicted_vol": 0.002369039459154,
+    "realized_vol": 0.0022727548226613,
+    "vol_surprise": 1.0423647265127731,
+    "momentum": -0.0023116841644522,
+    "signal": "NEUTRAL",
+    "replay_index": 255
+  },
+  {
+    "datetime": "2025-06-28 15:00:00",
+    "predicted_vol": 0.0024981182068586,
+    "realized_vol": 0.0022222221911921,
+    "vol_surprise": 1.1241532087835162,
+    "momentum": 0.0007658469917533,
+    "signal": "LONG",
+    "replay_index": 256
+  },
+  {
+    "datetime": "2025-06-28 16:00:00",
+    "predicted_vol": 0.0025777197442948,
+    "realized_vol": 0.0016857555879258,
+    "vol_surprise": 1.5291183151090768,
+    "momentum": -7.625944341804725e-05,
+    "signal": "SHORT",
+    "replay_index": 257
+  },
+  {
+    "datetime": "2025-06-28 17:00:00",
+    "predicted_vol": 0.002548168413341,
+    "realized_vol": 0.0016617377890892,
+    "vol_surprise": 1.5334359187544424,
+    "momentum": 0.0012481917132841,
+    "signal": "LONG",
+    "replay_index": 258
+  },
+  {
+    "datetime": "2025-06-28 18:00:00",
+    "predicted_vol": 0.0024934790562838,
+    "realized_vol": 0.001159716447019,
+    "vol_surprise": 2.150076480068157,
+    "momentum": -6.141694576478475e-05,
+    "signal": "SHORT",
+    "replay_index": 259
+  },
+  {
+    "datetime": "2025-06-28 19:00:00",
+    "predicted_vol": 0.0028638259973376,
+    "realized_vol": 0.0011229628839777,
+    "vol_surprise": 2.5502410081385865,
+    "momentum": 0.0009229000381747,
+    "signal": "LONG",
+    "replay_index": 260
+  },
+  {
+    "datetime": "2025-06-28 20:00:00",
+    "predicted_vol": 0.0024591328110545,
+    "realized_vol": 0.0010979984098716,
+    "vol_surprise": 2.239650612373852,
+    "momentum": -8.598861249612362e-05,
+    "signal": "SHORT",
+    "replay_index": 261
+  },
+  {
+    "datetime": "2025-06-28 21:00:00",
+    "predicted_vol": 0.002477548783645,
+    "realized_vol": 0.0010372835702465,
+    "vol_surprise": 2.3884970848001683,
+    "momentum": -0.0009527837091675,
+    "signal": "SHORT",
+    "replay_index": 262
+  },
+  {
+    "datetime": "2025-06-28 22:00:00",
+    "predicted_vol": 0.0025158359203487,
+    "realized_vol": 0.0010414814613654,
+    "vol_surprise": 2.4156319758685156,
+    "momentum": 0.0007024882243871,
+    "signal": "LONG",
+    "replay_index": 263
+  },
+  {
+    "datetime": "2025-06-28 23:00:00",
+    "predicted_vol": 0.0025519952178001,
+    "realized_vol": 0.0010574272493079,
+    "vol_surprise": 2.413400278336166,
+    "momentum": -0.0011985433665522,
+    "signal": "SHORT",
+    "replay_index": 264
+  },
+  {
+    "datetime": "2025-06-29 00:00:00",
+    "predicted_vol": 0.0028331296052783,
+    "realized_vol": 0.0010767340072208,
+    "vol_surprise": 2.6312251552180665,
+    "momentum": 0.0011570218225106,
+    "signal": "LONG",
+    "replay_index": 265
+  },
+  {
+    "datetime": "2025-06-29 01:00:00",
+    "predicted_vol": 0.0028707054443657,
+    "realized_vol": 0.0011269325457682,
+    "vol_surprise": 2.547362266841561,
+    "momentum": 0.0006809929829252,
+    "signal": "LONG",
+    "replay_index": 266
+  },
+  {
+    "datetime": "2025-06-29 02:00:00",
+    "predicted_vol": 0.0029079031664878,
+    "realized_vol": 0.0011238562271859,
+    "vol_surprise": 2.5874334244415897,
+    "momentum": 0.0010467158198512,
+    "signal": "LONG",
+    "replay_index": 267
+  },
+  {
+    "datetime": "2025-06-29 03:00:00",
+    "predicted_vol": 0.0030084797181189,
+    "realized_vol": 0.0011428543284905,
+    "vol_surprise": 2.6324262358898975,
+    "momentum": -0.0010903493617411,
+    "signal": "SHORT",
+    "replay_index": 268
+  },
+  {
+    "datetime": "2025-06-29 04:00:00",
+    "predicted_vol": 0.0031071696430444,
+    "realized_vol": 0.0010543047037193,
+    "vol_surprise": 2.9471267955867724,
+    "momentum": -0.0015142460474116,
+    "signal": "SHORT",
+    "replay_index": 269
+  },
+  {
+    "datetime": "2025-06-29 05:00:00",
+    "predicted_vol": 0.003184838918969,
+    "realized_vol": 0.0010301278304217,
+    "vol_surprise": 3.091692918989693,
+    "momentum": -5.008615737636603e-05,
+    "signal": "SHORT",
+    "replay_index": 270
+  },
+  {
+    "datetime": "2025-06-29 06:00:00",
+    "predicted_vol": 0.0032018551137298,
+    "realized_vol": 0.0010392019735363,
+    "vol_surprise": 3.08107104804087,
+    "momentum": -0.0005406021658047,
+    "signal": "SHORT",
+    "replay_index": 271
+  },
+  {
+    "datetime": "2025-06-29 07:00:00",
+    "predicted_vol": 0.0031719512771815,
+    "realized_vol": 0.0010076928457627,
+    "vol_surprise": 3.147736227878486,
+    "momentum": 0.0007761756656741,
+    "signal": "LONG",
+    "replay_index": 272
+  },
+  {
+    "datetime": "2025-06-29 08:00:00",
+    "predicted_vol": 0.0032269379589706,
+    "realized_vol": 0.0010965383775918,
+    "vol_surprise": 2.9428408753531716,
+    "momentum": 0.0027231737236753,
+    "signal": "LONG",
+    "replay_index": 273
+  },
+  {
+    "datetime": "2025-06-29 09:00:00",
+    "predicted_vol": 0.0032970488537102,
+    "realized_vol": 0.0011739442950382,
+    "vol_surprise": 2.8085224040402963,
+    "momentum": 0.0061096262582333,
+    "signal": "LONG",
+    "replay_index": 274
+  },
+  {
+    "datetime": "2025-06-29 10:00:00",
+    "predicted_vol": 0.0034454148262739,
+    "realized_vol": 0.0012339699880405,
+    "vol_surprise": 2.792138268893452,
+    "momentum": 0.008121479051775,
+    "signal": "LONG",
+    "replay_index": 275
+  },
+  {
+    "datetime": "2025-06-29 11:00:00",
+    "predicted_vol": 0.0035069813020527,
+    "realized_vol": 0.0013253985407731,
+    "vol_surprise": 2.6459824680409727,
+    "momentum": 0.010190593126068,
+    "signal": "LONG",
+    "replay_index": 276
+  },
+  {
+    "datetime": "2025-06-29 12:00:00",
+    "predicted_vol": 0.0037244283594191,
+    "realized_vol": 0.0014438581877044,
+    "vol_surprise": 2.579497343392433,
+    "momentum": 0.0069608357900809,
+    "signal": "LONG",
+    "replay_index": 277
+  },
+  {
+    "datetime": "2025-06-29 13:00:00",
+    "predicted_vol": 0.0037484536878764,
+    "realized_vol": 0.0013864464394586,
+    "vol_surprise": 2.7036411802103806,
+    "momentum": 0.0061781769141976,
+    "signal": "LONG",
+    "replay_index": 278
+  },
+  {
+    "datetime": "2025-06-29 14:00:00",
+    "predicted_vol": 0.0038254363462328,
+    "realized_vol": 0.00140976468337,
+    "vol_surprise": 2.7135282869253303,
+    "momentum": 0.0030056529940729,
+    "signal": "LONG",
+    "replay_index": 279
+  },
+  {
+    "datetime": "2025-06-29 15:00:00",
+    "predicted_vol": 0.0039423308335244,
+    "realized_vol": 0.0014145026863324,
+    "vol_surprise": 2.78707907140575,
+    "momentum": -0.0011805690954783,
+    "signal": "SHORT",
+    "replay_index": 280
+  },
+  {
+    "datetime": "2025-06-29 16:00:00",
+    "predicted_vol": 0.0041206940077245,
+    "realized_vol": 0.0014599393895947,
+    "vol_surprise": 2.8225103296023413,
+    "momentum": -0.0053316937709265,
+    "signal": "SHORT",
+    "replay_index": 281
+  },
+  {
+    "datetime": "2025-06-29 17:00:00",
+    "predicted_vol": 0.0040529128164052,
+    "realized_vol": 0.0014438985989265,
+    "vol_surprise": 2.8069234359104507,
+    "momentum": -0.0082751251634444,
+    "signal": "SHORT",
+    "replay_index": 282
+  },
+  {
+    "datetime": "2025-06-29 18:00:00",
+    "predicted_vol": 0.0040405900217592,
+    "realized_vol": 0.0014435858441826,
+    "vol_surprise": 2.7989953199126023,
+    "momentum": -0.0047458038598923,
+    "signal": "SHORT",
+    "replay_index": 283
+  },
+  {
+    "datetime": "2025-06-29 19:00:00",
+    "predicted_vol": 0.0041251610964536,
+    "realized_vol": 0.0015055604174478,
+    "vol_surprise": 2.739950551732995,
+    "momentum": -0.0060375612897903,
+    "signal": "SHORT",
+    "replay_index": 284
+  },
+  {
+    "datetime": "2025-06-29 20:00:00",
+    "predicted_vol": 0.0041286568157374,
+    "realized_vol": 0.0015082113952751,
+    "vol_surprise": 2.737452341675442,
+    "momentum": -0.0054399923366518,
+    "signal": "SHORT",
+    "replay_index": 285
+  },
+  {
+    "datetime": "2025-06-29 21:00:00",
+    "predicted_vol": 0.0042316145263612,
+    "realized_vol": 0.0015337374517679,
+    "vol_surprise": 2.7590214488689315,
+    "momentum": -0.0018814492314851,
+    "signal": "SHORT",
+    "replay_index": 286
+  },
+  {
+    "datetime": "2025-06-29 22:00:00",
+    "predicted_vol": 0.004327202681452,
+    "realized_vol": 0.001818393262412,
+    "vol_surprise": 2.379684730965261,
+    "momentum": 0.0049974613685164,
+    "signal": "LONG",
+    "replay_index": 287
+  },
+  {
+    "datetime": "2025-06-29 23:00:00",
+    "predicted_vol": 0.0042837793007493,
+    "realized_vol": 0.0018684020427755,
+    "vol_surprise": 2.2927502768011085,
+    "momentum": 0.0078646562367115,
+    "signal": "LONG",
+    "replay_index": 288
+  },
+  {
+    "datetime": "2025-06-30 00:00:00",
+    "predicted_vol": 0.0043787118047475,
+    "realized_vol": 0.0019338679443882,
+    "vol_surprise": 2.264224823341096,
+    "momentum": 0.0097110705007457,
+    "signal": "LONG",
+    "replay_index": 289
+  },
+  {
+    "datetime": "2025-06-30 01:00:00",
+    "predicted_vol": 0.0043811039067804,
+    "realized_vol": 0.001931178134074,
+    "vol_surprise": 2.268617187342561,
+    "momentum": 0.0105311352487223,
+    "signal": "LONG",
+    "replay_index": 290
+  },
+  {
+    "datetime": "2025-06-30 02:00:00",
+    "predicted_vol": 0.0042326836846768,
+    "realized_vol": 0.0019458150878099,
+    "vol_surprise": 2.1752753954851936,
+    "momentum": 0.0102398162865004,
+    "signal": "LONG",
+    "replay_index": 291
+  },
+  {
+    "datetime": "2025-06-30 03:00:00",
+    "predicted_vol": 0.0040946244262158,
+    "realized_vol": 0.0019238237740545,
+    "vol_surprise": 2.1283781193670586,
+    "momentum": 0.0091135403672294,
+    "signal": "LONG",
+    "replay_index": 292
+  },
+  {
+    "datetime": "2025-06-30 04:00:00",
+    "predicted_vol": 0.0040184035897254,
+    "realized_vol": 0.0019834010832637,
+    "vol_surprise": 2.0260166355829106,
+    "momentum": 0.0023688651694333,
+    "signal": "LONG",
+    "replay_index": 293
+  },
+  {
+    "datetime": "2025-06-30 05:00:00",
+    "predicted_vol": 0.0039089382626116,
+    "realized_vol": 0.0019946773778236,
+    "vol_surprise": 1.9596844612919708,
+    "momentum": -0.0009667296456726,
+    "signal": "SHORT",
+    "replay_index": 294
+  },
+  {
+    "datetime": "2025-06-30 06:00:00",
+    "predicted_vol": 0.0041507706046104,
+    "realized_vol": 0.0024374801577793,
+    "vol_surprise": 1.702894110281496,
+    "momentum": -0.0104989314906614,
+    "signal": "SHORT",
+    "replay_index": 295
+  },
+  {
+    "datetime": "2025-06-30 07:00:00",
+    "predicted_vol": 0.0041296803392469,
+    "realized_vol": 0.0024440711858366,
+    "vol_surprise": 1.6896726916868774,
+    "momentum": -0.0081154217343178,
+    "signal": "SHORT",
+    "replay_index": 296
+  },
+  {
+    "datetime": "2025-06-30 08:00:00",
+    "predicted_vol": 0.0042601288296282,
+    "realized_vol": 0.0024403436455589,
+    "vol_surprise": 1.7457085756676087,
+    "momentum": -0.0094185719439878,
+    "signal": "SHORT",
+    "replay_index": 297
+  },
+  {
+    "datetime": "2025-06-30 09:00:00",
+    "predicted_vol": 0.0043099056929349,
+    "realized_vol": 0.0023817807331291,
+    "vol_surprise": 1.809530840932031,
+    "momentum": -0.009991409379132,
+    "signal": "SHORT",
+    "replay_index": 298
+  },
+  {
+    "datetime": "2025-06-30 10:00:00",
+    "predicted_vol": 0.0044140475802123,
+    "realized_vol": 0.0023577500611991,
+    "vol_surprise": 1.8721439786400924,
+    "momentum": -0.0066315400141479,
+    "signal": "SHORT",
+    "replay_index": 299
+  },
+  {
+    "datetime": "2025-06-30 11:00:00",
+    "predicted_vol": 0.0042803948745131,
+    "realized_vol": 0.0022737735116355,
+    "vol_surprise": 1.882507141810364,
+    "momentum": -0.0059803419520964,
+    "signal": "SHORT",
+    "replay_index": 300
+  },
+  {
+    "datetime": "2025-06-30 12:00:00",
+    "predicted_vol": 0.0040885750204324,
+    "realized_vol": 0.0022305408533869,
+    "vol_surprise": 1.8329971469583872,
+    "momentum": 0.000286885589201,
+    "signal": "LONG",
+    "replay_index": 301
+  },
+  {
+    "datetime": "2025-06-30 13:00:00",
+    "predicted_vol": 0.0040089800022542,
+    "realized_vol": 0.0022294159538896,
+    "vol_surprise": 1.7982198410574008,
+    "momentum": -0.0015397243630308,
+    "signal": "SHORT",
+    "replay_index": 302
+  },
+  {
+    "datetime": "2025-06-30 14:00:00",
+    "predicted_vol": 0.004637855105102,
+    "realized_vol": 0.0025854384158246,
+    "vol_surprise": 1.7938370052503554,
+    "momentum": -0.0061736237878593,
+    "signal": "SHORT",
+    "replay_index": 303
+  },
+  {
+    "datetime": "2025-06-30 15:00:00",
+    "predicted_vol": 0.0047487188130617,
+    "realized_vol": 0.0029934881105594,
+    "vol_surprise": 1.5863496488630338,
+    "momentum": 0.0008300019874168,
+    "signal": "LONG",
+    "replay_index": 304
+  },
+  {
+    "datetime": "2025-06-30 16:00:00",
+    "predicted_vol": 0.004696016665548,
+    "realized_vol": 0.0029670426204831,
+    "vol_surprise": 1.5827263933213658,
+    "momentum": -0.0001455642750125,
+    "signal": "SHORT",
+    "replay_index": 305
+  },
+  {
+    "datetime": "2025-06-30 17:00:00",
+    "predicted_vol": 0.0046864296309649,
+    "realized_vol": 0.0029842981983349,
+    "vol_surprise": 1.570362383216172,
+    "momentum": -0.0016885346425306,
+    "signal": "SHORT",
+    "replay_index": 306
+  },
+  {
+    "datetime": "2025-06-30 18:00:00",
+    "predicted_vol": 0.004706447944045,
+    "realized_vol": 0.0029984318669858,
+    "vol_surprise": 1.5696364475929254,
+    "momentum": -0.0033885665393748,
+    "signal": "SHORT",
+    "replay_index": 307
+  },
+  {
+    "datetime": "2025-06-30 19:00:00",
+    "predicted_vol": 0.0046703247353434,
+    "realized_vol": 0.0031248238732944,
+    "vol_surprise": 1.4945881511138364,
+    "momentum": 0.0022095980812799,
+    "signal": "LONG",
+    "replay_index": 308
+  },
+  {
+    "datetime": "2025-06-30 20:00:00",
+    "predicted_vol": 0.0048057357780635,
+    "realized_vol": 0.0031500076786182,
+    "vol_surprise": 1.525626686780512,
+    "momentum": 0.0069808265584184,
+    "signal": "LONG",
+    "replay_index": 309
+  },
+  {
+    "datetime": "2025-06-30 21:00:00",
+    "predicted_vol": 0.0048736906610429,
+    "realized_vol": 0.0032208122009615,
+    "vol_surprise": 1.5131868475870769,
+    "momentum": -0.0039095854542292,
+    "signal": "SHORT",
+    "replay_index": 310
+  },
+  {
+    "datetime": "2025-06-30 22:00:00",
+    "predicted_vol": 0.0047327927313745,
+    "realized_vol": 0.0030369899865592,
+    "vol_surprise": 1.5583827251062143,
+    "momentum": -0.0049325197650665,
+    "signal": "SHORT",
+    "replay_index": 311
+  },
+  {
+    "datetime": "2025-06-30 23:00:00",
+    "predicted_vol": 0.0046229707077145,
+    "realized_vol": 0.0029721910870085,
+    "vol_surprise": 1.5554083073330982,
+    "momentum": -0.0029648535526863,
+    "signal": "SHORT",
+    "replay_index": 312
+  },
+  {
+    "datetime": "2025-07-01 00:00:00",
+    "predicted_vol": 0.0045005688443779,
+    "realized_vol": 0.0029251650132807,
+    "vol_surprise": 1.5385692171021614,
+    "momentum": 0.0009243941788324,
+    "signal": "LONG",
+    "replay_index": 313
+  },
+  {
+    "datetime": "2025-07-01 01:00:00",
+    "predicted_vol": 0.0043726656585931,
+    "realized_vol": 0.0029223019741124,
+    "vol_surprise": 1.4963086283789069,
+    "momentum": -0.0049768263521995,
+    "signal": "SHORT",
+    "replay_index": 314
+  },
+  {
+    "datetime": "2025-07-01 02:00:00",
+    "predicted_vol": 0.0042280359193682,
+    "realized_vol": 0.0029224392855019,
+    "vol_surprise": 1.4467489334486314,
+    "momentum": -0.0038539936160288,
+    "signal": "SHORT",
+    "replay_index": 315
+  },
+  {
+    "datetime": "2025-07-01 03:00:00",
+    "predicted_vol": 0.0040182163938879,
+    "realized_vol": 0.0029171123625964,
+    "vol_surprise": 1.3774637019163407,
+    "momentum": 0.0002632451621863,
+    "signal": "LONG",
+    "replay_index": 316
+  },
+  {
+    "datetime": "2025-07-01 04:00:00",
+    "predicted_vol": 0.0040650926530361,
+    "realized_vol": 0.0029358206062488,
+    "vol_surprise": 1.3846529465675013,
+    "momentum": -0.0018410203318021,
+    "signal": "SHORT",
+    "replay_index": 317
+  },
+  {
+    "datetime": "2025-07-01 05:00:00",
+    "predicted_vol": 0.0039613666012883,
+    "realized_vol": 0.0029407467716188,
+    "vol_surprise": 1.347061446949278,
+    "momentum": -0.0019775069994722,
+    "signal": "SHORT",
+    "replay_index": 318
+  },
+  {
+    "datetime": "2025-07-01 06:00:00",
+    "predicted_vol": 0.003945555537939,
+    "realized_vol": 0.0026476369992571,
+    "vol_surprise": 1.4902177069764933,
+    "momentum": -0.0042895996439617,
+    "signal": "SHORT",
+    "replay_index": 319
+  },
+  {
+    "datetime": "2025-07-01 07:00:00",
+    "predicted_vol": 0.0041133356280624,
+    "realized_vol": 0.0027165074971975,
+    "vol_surprise": 1.5141999910937074,
+    "momentum": -0.0002101736558177,
+    "signal": "SHORT",
+    "replay_index": 320
+  },
+  {
+    "datetime": "2025-07-01 08:00:00",
+    "predicted_vol": 0.0041266810148954,
+    "realized_vol": 0.0028165640101275,
+    "vol_surprise": 1.4651472503579208,
+    "momentum": -0.0036776670411878,
+    "signal": "SHORT",
+    "replay_index": 321
+  },
+  {
+    "datetime": "2025-07-01 09:00:00",
+    "predicted_vol": 0.0040466841310262,
+    "realized_vol": 0.0028303094594818,
+    "vol_surprise": 1.4297673766624583,
+    "momentum": -0.0057485005431458,
+    "signal": "SHORT",
+    "replay_index": 322
+  },
+  {
+    "datetime": "2025-07-01 10:00:00",
+    "predicted_vol": 0.0039105312898755,
+    "realized_vol": 0.0028061607503371,
+    "vol_surprise": 1.3935521296866589,
+    "momentum": -0.0042301163851916,
+    "signal": "SHORT",
+    "replay_index": 323
+  },
+  {
+    "datetime": "2025-07-01 11:00:00",
+    "predicted_vol": 0.0038014538586139,
+    "realized_vol": 0.0028270465534991,
+    "vol_surprise": 1.3446732434981556,
+    "momentum": -0.0032472342930502,
+    "signal": "SHORT",
+    "replay_index": 324
+  },
+  {
+    "datetime": "2025-07-01 12:00:00",
+    "predicted_vol": 0.0037398664280772,
+    "realized_vol": 0.0028313399369017,
+    "vol_surprise": 1.3208821658375811,
+    "momentum": -0.0040521139551879,
+    "signal": "SHORT",
+    "replay_index": 325
+  },
+  {
+    "datetime": "2025-07-01 13:00:00",
+    "predicted_vol": 0.0038048713468015,
+    "realized_vol": 0.0029436100314011,
+    "vol_surprise": 1.2925867578289103,
+    "momentum": -0.0034431082093278,
+    "signal": "SHORT",
+    "replay_index": 326
+  },
+  {
+    "datetime": "2025-07-01 14:00:00",
+    "predicted_vol": 0.0040058465674519,
+    "realized_vol": 0.0031374319166782,
+    "vol_surprise": 1.2767915524022493,
+    "momentum": -0.0077330501821446,
+    "signal": "SHORT",
+    "replay_index": 327
+  },
+  {
+    "datetime": "2025-07-01 15:00:00",
+    "predicted_vol": 0.0038941139355301,
+    "realized_vol": 0.0027190473144529,
+    "vol_surprise": 1.43216115248575,
+    "momentum": -0.0053086151999542,
+    "signal": "SHORT",
+    "replay_index": 328
+  },
+  {
+    "datetime": "2025-07-01 16:00:00",
+    "predicted_vol": 0.0038549818564206,
+    "realized_vol": 0.0027329846317165,
+    "vol_surprise": 1.4105391635515172,
+    "momentum": -0.0030840947596208,
+    "signal": "SHORT",
+    "replay_index": 329
+  },
+  {
+    "datetime": "2025-07-01 17:00:00",
+    "predicted_vol": 0.0038632613141089,
+    "realized_vol": 0.0027521641339763,
+    "vol_surprise": 1.4037176294886535,
+    "momentum": -0.0030098014640207,
+    "signal": "SHORT",
+    "replay_index": 330
+  },
+  {
+    "datetime": "2025-07-01 18:00:00",
+    "predicted_vol": 0.0039258771575987,
+    "realized_vol": 0.0028555978923232,
+    "vol_surprise": 1.374800411553996,
+    "momentum": -0.0062619298943101,
+    "signal": "SHORT",
+    "replay_index": 331
+  },
+  {
+    "datetime": "2025-07-01 19:00:00",
+    "predicted_vol": 0.0039367568679153,
+    "realized_vol": 0.0026673526371359,
+    "vol_surprise": 1.4759041654658749,
+    "momentum": -0.0130111163205578,
+    "signal": "SHORT",
+    "replay_index": 332
+  },
+  {
+    "datetime": "2025-07-01 20:00:00",
+    "predicted_vol": 0.0041377316229045,
+    "realized_vol": 0.0028813636177143,
+    "vol_surprise": 1.4360324387613506,
+    "momentum": 7.645360246955057e-05,
+    "signal": "LONG",
+    "replay_index": 333
+  },
+  {
+    "datetime": "2025-07-01 21:00:00",
+    "predicted_vol": 0.0040274667553603,
+    "realized_vol": 0.0028167931592034,
+    "vol_surprise": 1.429805643414475,
+    "momentum": -0.0024942694134432,
+    "signal": "SHORT",
+    "replay_index": 334
+  },
+  {
+    "datetime": "2025-07-01 22:00:00",
+    "predicted_vol": 0.003985449206084,
+    "realized_vol": 0.0028172359109826,
+    "vol_surprise": 1.4146664787805785,
+    "momentum": -0.0044257145750266,
+    "signal": "SHORT",
+    "replay_index": 335
+  },
+  {
+    "datetime": "2025-07-01 23:00:00",
+    "predicted_vol": 0.003998648840934,
+    "realized_vol": 0.0028173317715976,
+    "vol_surprise": 1.419303498879919,
+    "momentum": -0.00534009354238,
+    "signal": "SHORT",
+    "replay_index": 336
+  },
+  {
+    "datetime": "2025-07-02 00:00:00",
+    "predicted_vol": 0.0040531824342906,
+    "realized_vol": 0.0028013749148808,
+    "vol_surprise": 1.44685469008813,
+    "momentum": -0.0037061073009945,
+    "signal": "SHORT",
+    "replay_index": 337
+  },
+  {
+    "datetime": "2025-07-02 01:00:00",
+    "predicted_vol": 0.0042273197323083,
+    "realized_vol": 0.0028823360591116,
+    "vol_surprise": 1.4666297217303947,
+    "momentum": 0.002111420140274,
+    "signal": "LONG",
+    "replay_index": 338
+  },
+  {
+    "datetime": "2025-07-02 02:00:00",
+    "predicted_vol": 0.0041311467066407,
+    "realized_vol": 0.0029349561465401,
+    "vol_surprise": 1.4075667575171853,
+    "momentum": -0.0003490913135787,
+    "signal": "SHORT",
+    "replay_index": 339
+  },
+  {
+    "datetime": "2025-07-02 03:00:00",
+    "predicted_vol": 0.004101812839508,
+    "realized_vol": 0.0029987460554055,
+    "vol_surprise": 1.3678426794806868,
+    "momentum": 0.004134973483493,
+    "signal": "LONG",
+    "replay_index": 340
+  },
+  {
+    "datetime": "2025-07-02 04:00:00",
+    "predicted_vol": 0.0039854077622294,
+    "realized_vol": 0.0029857485133839,
+    "vol_surprise": 1.3348102642819235,
+    "momentum": 0.0065183232519917,
+    "signal": "LONG",
+    "replay_index": 341
+  },
+  {
+    "datetime": "2025-07-02 05:00:00",
+    "predicted_vol": 0.0039359759539365,
+    "realized_vol": 0.003040357796029,
+    "vol_surprise": 1.294576565651982,
+    "momentum": 0.0087150251835095,
+    "signal": "LONG",
+    "replay_index": 342
+  },
+  {
+    "datetime": "2025-07-02 06:00:00",
+    "predicted_vol": 0.0039314716123044,
+    "realized_vol": 0.0031189195136652,
+    "vol_surprise": 1.2605235867995417,
+    "momentum": 0.0148403111304589,
+    "signal": "LONG",
+    "replay_index": 343
+  },
+  {
+    "datetime": "2025-07-02 07:00:00",
+    "predicted_vol": 0.0040021501481533,
+    "realized_vol": 0.0030687004229055,
+    "vol_surprise": 1.3041840507728264,
+    "momentum": 0.0134277477981743,
+    "signal": "LONG",
+    "replay_index": 344
+  },
+  {
+    "datetime": "2025-07-02 08:00:00",
+    "predicted_vol": 0.0041834525763988,
+    "realized_vol": 0.0031602203573979,
+    "vol_surprise": 1.3237850856208495,
+    "momentum": 0.0171787725508908,
+    "signal": "LONG",
+    "replay_index": 345
+  },
+  {
+    "datetime": "2025-07-02 09:00:00",
+    "predicted_vol": 0.0040367287583649,
+    "realized_vol": 0.0031362079377688,
+    "vol_surprise": 1.287136834822457,
+    "momentum": 0.0139428646863222,
+    "signal": "LONG",
+    "replay_index": 346
+  },
+  {
+    "datetime": "2025-07-02 10:00:00",
+    "predicted_vol": 0.004069457296282,
+    "realized_vol": 0.003126637643475,
+    "vol_surprise": 1.3015442658584224,
+    "momentum": 0.0139044788397982,
+    "signal": "LONG",
+    "replay_index": 347
+  },
+  {
+    "datetime": "2025-07-02 11:00:00",
+    "predicted_vol": 0.0040569207631051,
+    "realized_vol": 0.0032109432899104,
+    "vol_surprise": 1.263466961828004,
+    "momentum": 0.0081327671712995,
+    "signal": "LONG",
+    "replay_index": 348
+  },
+  {
+    "datetime": "2025-07-02 12:00:00",
+    "predicted_vol": 0.0040177055634558,
+    "realized_vol": 0.0032057104530846,
+    "vol_surprise": 1.253296460255723,
+    "momentum": 0.0038976141670091,
+    "signal": "LONG",
+    "replay_index": 349
+  },
+  {
+    "datetime": "2025-07-02 13:00:00",
+    "predicted_vol": 0.0041464627720415,
+    "realized_vol": 0.003207403540268,
+    "vol_surprise": 1.2927786354238988,
+    "momentum": 0.0062810118141896,
+    "signal": "LONG",
+    "replay_index": 350
+  },
+  {
+    "datetime": "2025-07-02 14:00:00",
+    "predicted_vol": 0.0042107393965125,
+    "realized_vol": 0.0026476551722457,
+    "vol_surprise": 1.5903654828815927,
+    "momentum": 0.0038490966549121,
+    "signal": "LONG",
+    "replay_index": 351
+  },
+  {
+    "datetime": "2025-07-02 15:00:00",
+    "predicted_vol": 0.0044555822387337,
+    "realized_vol": 0.0028042769775082,
+    "vol_surprise": 1.5888524116803966,
+    "momentum": 0.0098730990601756,
+    "signal": "LONG",
+    "replay_index": 352
+  },
+  {
+    "datetime": "2025-07-02 16:00:00",
+    "predicted_vol": 0.0044726738706231,
+    "realized_vol": 0.0030451391296326,
+    "vol_surprise": 1.4687913031949678,
+    "momentum": 0.0152054480402116,
+    "signal": "LONG",
+    "replay_index": 353
+  },
+  {
+    "datetime": "2025-07-02 17:00:00",
+    "predicted_vol": 0.0042474018409848,
+    "realized_vol": 0.0031740790845534,
+    "vol_surprise": 1.3381524933183335,
+    "momentum": 0.0152699877872885,
+    "signal": "LONG",
+    "replay_index": 354
+  },
+  {
+    "datetime": "2025-07-02 18:00:00",
+    "predicted_vol": 0.0041281655430793,
+    "realized_vol": 0.002989231129312,
+    "vol_surprise": 1.3810124960224897,
+    "momentum": 0.0200741624788059,
+    "signal": "LONG",
+    "replay_index": 355
+  },
+  {
+    "datetime": "2025-07-02 19:00:00",
+    "predicted_vol": 0.0041448813863098,
+    "realized_vol": 0.0028191875859543,
+    "vol_surprise": 1.4702396559066682,
+    "momentum": 0.0178167827085872,
+    "signal": "LONG",
+    "replay_index": 356
+  },
+  {
+    "datetime": "2025-07-02 20:00:00",
+    "predicted_vol": 0.0041602221317589,
+    "realized_vol": 0.0030505990202542,
+    "vol_surprise": 1.3637394177790765,
+    "momentum": 0.0094334371557142,
+    "signal": "LONG",
+    "replay_index": 357
+  },
+  {
+    "datetime": "2025-07-02 21:00:00",
+    "predicted_vol": 0.0041985092684626,
+    "realized_vol": 0.0029883304907903,
+    "vol_surprise": 1.404968185882379,
+    "momentum": 0.0066892595676351,
+    "signal": "LONG",
+    "replay_index": 358
+  },
+  {
+    "datetime": "2025-07-02 22:00:00",
+    "predicted_vol": 0.0041663022711873,
+    "realized_vol": 0.0030621186418742,
+    "vol_surprise": 1.360594659597275,
+    "momentum": -0.0026696114847186,
+    "signal": "SHORT",
+    "replay_index": 359
+  },
+  {
+    "datetime": "2025-07-02 23:00:00",
+    "predicted_vol": 0.0041748182848095,
+    "realized_vol": 0.0032326473055513,
+    "vol_surprise": 1.2914549253920495,
+    "momentum": -0.0033382073241156,
+    "signal": "SHORT",
+    "replay_index": 360
+  },
+  {
+    "datetime": "2025-07-03 00:00:00",
+    "predicted_vol": 0.0041113900952041,
+    "realized_vol": 0.0031176460934944,
+    "vol_surprise": 1.3187481747153158,
+    "momentum": -0.0057453983248273,
+    "signal": "SHORT",
+    "replay_index": 361
+  },
+  {
+    "datetime": "2025-07-03 01:00:00",
+    "predicted_vol": 0.0041133216582238,
+    "realized_vol": 0.003108161831905,
+    "vol_surprise": 1.3233936585929926,
+    "momentum": -0.0062011083618972,
+    "signal": "SHORT",
+    "replay_index": 362
+  },
+  {
+    "datetime": "2025-07-03 02:00:00",
+    "predicted_vol": 0.004149483051151,
+    "realized_vol": 0.0031941662687039,
+    "vol_surprise": 1.2990817327849058,
+    "momentum": -0.003686243760229,
+    "signal": "SHORT",
+    "replay_index": 363
+  },
+  {
+    "datetime": "2025-07-03 03:00:00",
+    "predicted_vol": 0.0041400557383894,
+    "realized_vol": 0.0031985847288364,
+    "vol_surprise": 1.2943398688380128,
+    "momentum": -0.0070608218164038,
+    "signal": "SHORT",
+    "replay_index": 364
+  },
+  {
+    "datetime": "2025-07-03 04:00:00",
+    "predicted_vol": 0.0042412681505084,
+    "realized_vol": 0.0031960394560387,
+    "vol_surprise": 1.3270387330465423,
+    "momentum": -0.0036910898891288,
+    "signal": "SHORT",
+    "replay_index": 365
+  },
+  {
+    "datetime": "2025-07-03 05:00:00",
+    "predicted_vol": 0.0044047972187399,
+    "realized_vol": 0.0032956386342923,
+    "vol_surprise": 1.336553459747194,
+    "momentum": 0.005249122495137,
+    "signal": "LONG",
+    "replay_index": 366
+  },
+  {
+    "datetime": "2025-07-03 06:00:00",
+    "predicted_vol": 0.0043160766363143,
+    "realized_vol": 0.0032619912538669,
+    "vol_surprise": 1.323141694876664,
+    "momentum": 0.0052312592766319,
+    "signal": "LONG",
+    "replay_index": 367
+  },
+  {
+    "datetime": "2025-07-03 07:00:00",
+    "predicted_vol": 0.0044724652543663,
+    "realized_vol": 0.0033034067967023,
+    "vol_surprise": 1.3538947909264518,
+    "momentum": 0.0027751570521728,
+    "signal": "LONG",
+    "replay_index": 368
+  },
+  {
+    "datetime": "2025-07-03 08:00:00",
+    "predicted_vol": 0.0043005915358662,
+    "realized_vol": 0.0031267682759983,
+    "vol_surprise": 1.375411017464368,
+    "momentum": 0.0057432743843891,
+    "signal": "LONG",
+    "replay_index": 369
+  },
+  {
+    "datetime": "2025-07-03 09:00:00",
+    "predicted_vol": 0.0045085255987942,
+    "realized_vol": 0.0032729702856405,
+    "vol_surprise": 1.377502759060918,
+    "momentum": 0.0120719118009943,
+    "signal": "LONG",
+    "replay_index": 370
+  },
+  {
+    "datetime": "2025-07-03 10:00:00",
+    "predicted_vol": 0.0042411452159285,
+    "realized_vol": 0.0033024254916584,
+    "vol_surprise": 1.2842515982998484,
+    "momentum": 0.0098012175626284,
+    "signal": "LONG",
+    "replay_index": 371
+  },
+  {
+    "datetime": "2025-07-03 11:00:00",
+    "predicted_vol": 0.0041232001967728,
+    "realized_vol": 0.0032559488850735,
+    "vol_surprise": 1.266359006947286,
+    "momentum": 0.0024834264473357,
+    "signal": "LONG",
+    "replay_index": 372
+  },
+  {
+    "datetime": "2025-07-03 12:00:00",
+    "predicted_vol": 0.0042953002266585,
+    "realized_vol": 0.0033958504084487,
+    "vol_surprise": 1.264867326302715,
+    "momentum": -0.0031405443336246,
+    "signal": "SHORT",
+    "replay_index": 373
+  },
+  {
+    "datetime": "2025-07-03 13:00:00",
+    "predicted_vol": 0.0045470502227544,
+    "realized_vol": 0.0038541968881272,
+    "vol_surprise": 1.1797659420984925,
+    "momentum": 0.0084395379572818,
+    "signal": "LONG",
+    "replay_index": 374
+  },
+  {
+    "datetime": "2025-07-03 14:00:00",
+    "predicted_vol": 0.004405181389302,
+    "realized_vol": 0.0039867715431379,
+    "vol_surprise": 1.10494954166216,
+    "momentum": 0.0031224271009298,
+    "signal": "LONG",
+    "replay_index": 375
+  },
+  {
+    "datetime": "2025-07-03 15:00:00",
+    "predicted_vol": 0.004289333242923,
+    "realized_vol": 0.0040302103290232,
+    "vol_surprise": 1.0642951341853566,
+    "momentum": -0.0078662026524385,
+    "signal": "NEUTRAL",
+    "replay_index": 376
+  },
+  {
+    "datetime": "2025-07-03 16:00:00",
+    "predicted_vol": 0.0044122166000306,
+    "realized_vol": 0.0037878190863475,
+    "vol_surprise": 1.1648435417450584,
+    "momentum": -0.0047159691867467,
+    "signal": "SHORT",
+    "replay_index": 377
+  },
+  {
+    "datetime": "2025-07-03 17:00:00",
+    "predicted_vol": 0.0043164030648767,
+    "realized_vol": 0.0037533465208235,
+    "vol_surprise": 1.1500145379408422,
+    "momentum": -0.0005546057255863,
+    "signal": "SHORT",
+    "replay_index": 378
+  },
+  {
+    "datetime": "2025-07-03 18:00:00",
+    "predicted_vol": 0.0040815086103975,
+    "realized_vol": 0.003675955535074,
+    "vol_surprise": 1.1103258925343078,
+    "momentum": 0.0047397428417029,
+    "signal": "LONG",
+    "replay_index": 379
+  },
+  {
+    "datetime": "2025-07-03 19:00:00",
+    "predicted_vol": 0.0040011005476117,
+    "realized_vol": 0.0036726311859331,
+    "vol_surprise": 1.0894370670642604,
+    "momentum": -0.0041719845380512,
+    "signal": "NEUTRAL",
+    "replay_index": 380
+  },
+  {
+    "datetime": "2025-07-03 20:00:00",
+    "predicted_vol": 0.0038882566150277,
+    "realized_vol": 0.0035204846812866,
+    "vol_surprise": 1.1044662786621633,
+    "momentum": 0.0017494341651006,
+    "signal": "LONG",
+    "replay_index": 381
+  },
+  {
+    "datetime": "2025-07-03 21:00:00",
+    "predicted_vol": 0.0038043102249503,
+    "realized_vol": 0.0034923103713596,
+    "vol_surprise": 1.0893390965904384,
+    "momentum": 0.0061411977970875,
+    "signal": "NEUTRAL",
+    "replay_index": 382
+  },
+  {
+    "datetime": "2025-07-03 22:00:00",
+    "predicted_vol": 0.0037450157105922,
+    "realized_vol": 0.0034518000231345,
+    "vol_surprise": 1.0849457342524371,
+    "momentum": 0.0037695881573622,
+    "signal": "NEUTRAL",
+    "replay_index": 383
+  },
+  {
+    "datetime": "2025-07-03 23:00:00",
+    "predicted_vol": 0.0036710968706756,
+    "realized_vol": 0.003361013414807,
+    "vol_surprise": 1.0922589164632672,
+    "momentum": 0.0006020173946904,
+    "signal": "NEUTRAL",
+    "replay_index": 384
+  },
+  {
+    "datetime": "2025-07-04 00:00:00",
+    "predicted_vol": 0.0038326929789036,
+    "realized_vol": 0.0033643460941577,
+    "vol_surprise": 1.139208889822351,
+    "momentum": -0.0016547232846455,
+    "signal": "SHORT",
+    "replay_index": 385
+  },
+  {
+    "datetime": "2025-07-04 01:00:00",
+    "predicted_vol": 0.0035698534920811,
+    "realized_vol": 0.0033615590971269,
+    "vol_surprise": 1.0619636272740862,
+    "momentum": -0.0025877138513003,
+    "signal": "NEUTRAL",
+    "replay_index": 386
+  },
+  {
+    "datetime": "2025-07-04 02:00:00",
+    "predicted_vol": 0.003625554498285,
+    "realized_vol": 0.0033584063639983,
+    "vol_surprise": 1.0795461017316,
+    "momentum": -0.0060655102088383,
+    "signal": "NEUTRAL",
+    "replay_index": 387
+  },
+  {
+    "datetime": "2025-07-04 03:00:00",
+    "predicted_vol": 0.0036097422707825,
+    "realized_vol": 0.0033528713478408,
+    "vol_surprise": 1.0766122216729803,
+    "momentum": -0.0049027289814603,
+    "signal": "NEUTRAL",
+    "replay_index": 388
+  },
+  {
+    "datetime": "2025-07-04 04:00:00",
+    "predicted_vol": 0.0035563972778618,
+    "realized_vol": 0.0033880456368262,
+    "vol_surprise": 1.0496898976819211,
+    "momentum": -0.0065785209975862,
+    "signal": "NEUTRAL",
+    "replay_index": 389
+  },
+  {
+    "datetime": "2025-07-04 05:00:00",
+    "predicted_vol": 0.0034292850177735,
+    "realized_vol": 0.0032103335905672,
+    "vol_surprise": 1.0682020796373366,
+    "momentum": -0.0053476930281368,
+    "signal": "NEUTRAL",
+    "replay_index": 390
+  },
+  {
+    "datetime": "2025-07-04 06:00:00",
+    "predicted_vol": 0.0032146146986633,
+    "realized_vol": 0.0031933269412453,
+    "vol_surprise": 1.0066663256878,
+    "momentum": -0.0041213272192131,
+    "signal": "NEUTRAL",
+    "replay_index": 391
+  },
+  {
+    "datetime": "2025-07-04 07:00:00",
+    "predicted_vol": 0.0032136845402419,
+    "realized_vol": 0.0032285272757171,
+    "vol_surprise": 0.995402629679858,
+    "momentum": -0.0071345807265002,
+    "signal": "NEUTRAL",
+    "replay_index": 392
+  },
+  {
+    "datetime": "2025-07-04 08:00:00",
+    "predicted_vol": 0.0031210705637931,
+    "realized_vol": 0.0032284104602205,
+    "vol_surprise": 0.96675147173819,
+    "momentum": -0.004272574009835,
+    "signal": "NEUTRAL",
+    "replay_index": 393
+  },
+  {
+    "datetime": "2025-07-04 09:00:00",
+    "predicted_vol": 0.0031440497841686,
+    "realized_vol": 0.0030155949316811,
+    "vol_surprise": 1.0425968524943263,
+    "momentum": -0.0026427952235412,
+    "signal": "NEUTRAL",
+    "replay_index": 394
+  },
+  {
+    "datetime": "2025-07-04 10:00:00",
+    "predicted_vol": 0.0029508536681532,
+    "realized_vol": 0.0030081246791822,
+    "vol_surprise": 0.9809612243051802,
+    "momentum": -0.0008004192542,
+    "signal": "NEUTRAL",
+    "replay_index": 395
+  },
+  {
+    "datetime": "2025-07-04 11:00:00",
+    "predicted_vol": 0.002810877515003,
+    "realized_vol": 0.0029840922110045,
+    "vol_surprise": 0.941953973351516,
+    "momentum": -0.0013157377826234,
+    "signal": "NEUTRAL",
+    "replay_index": 396
+  },
+  {
+    "datetime": "2025-07-04 12:00:00",
+    "predicted_vol": 0.0025323824957013,
+    "realized_vol": 0.0028760070335642,
+    "vol_surprise": 0.8805202720811435,
+    "momentum": -0.0026582094567574,
+    "signal": "NEUTRAL",
+    "replay_index": 397
+  },
+  {
+    "datetime": "2025-07-04 13:00:00",
+    "predicted_vol": 0.0027449391782283,
+    "realized_vol": 0.0022681546446919,
+    "vol_surprise": 1.2102081243235605,
+    "momentum": -0.0064507588030224,
+    "signal": "SHORT",
+    "replay_index": 398
+  },
+  {
+    "datetime": "2025-07-04 14:00:00",
+    "predicted_vol": 0.0024636799935251,
+    "realized_vol": 0.0021215425403028,
+    "vol_surprise": 1.1612682502107514,
+    "momentum": -0.0088412276864904,
+    "signal": "SHORT",
+    "replay_index": 399
+  },
+  {
+    "datetime": "2025-07-04 15:00:00",
+    "predicted_vol": 0.0021794764325022,
+    "realized_vol": 0.001900796990568,
+    "vol_surprise": 1.1466118913892431,
+    "momentum": -0.0126687815319537,
+    "signal": "SHORT",
+    "replay_index": 400
+  },
+  {
+    "datetime": "2025-07-04 16:00:00",
+    "predicted_vol": 0.0021207802928984,
+    "realized_vol": 0.0018408624590447,
+    "vol_surprise": 1.152057983733824,
+    "momentum": -0.0121216632651497,
+    "signal": "SHORT",
+    "replay_index": 401
+  },
+  {
+    "datetime": "2025-07-04 17:00:00",
+    "predicted_vol": 0.0019786492921411,
+    "realized_vol": 0.0018577341007502,
+    "vol_surprise": 1.0650874586099703,
+    "momentum": -0.0094137334500713,
+    "signal": "NEUTRAL",
+    "replay_index": 402
+  },
+  {
+    "datetime": "2025-07-04 18:00:00",
+    "predicted_vol": 0.0019948033150285,
+    "realized_vol": 0.0019066175172497,
+    "vol_surprise": 1.046252484822451,
+    "momentum": -0.0116862509061634,
+    "signal": "NEUTRAL",
+    "replay_index": 403
+  },
+  {
+    "datetime": "2025-07-04 19:00:00",
+    "predicted_vol": 0.002345728687942,
+    "realized_vol": 0.0018668505993149,
+    "vol_surprise": 1.2565165572450454,
+    "momentum": -0.0053298853462365,
+    "signal": "SHORT",
+    "replay_index": 404
+  },
+  {
+    "datetime": "2025-07-04 20:00:00",
+    "predicted_vol": 0.002017356455326,
+    "realized_vol": 0.0019325732768032,
+    "vol_surprise": 1.0438706151743409,
+    "momentum": -0.0012060240203704,
+    "signal": "NEUTRAL",
+    "replay_index": 405
+  },
+  {
+    "datetime": "2025-07-04 21:00:00",
+    "predicted_vol": 0.0019934619776904,
+    "realized_vol": 0.002007958330353,
+    "vol_surprise": 0.9927805510485458,
+    "momentum": 0.002644145207283,
+    "signal": "NEUTRAL",
+    "replay_index": 406
+  },
+  {
+    "datetime": "2025-07-04 22:00:00",
+    "predicted_vol": 0.0020098641980439,
+    "realized_vol": 0.0021648726984625,
+    "vol_surprise": 0.9283983300594558,
+    "momentum": 0.0057672865123225,
+    "signal": "NEUTRAL",
+    "replay_index": 407
+  },
+  {
+    "datetime": "2025-07-04 23:00:00",
+    "predicted_vol": 0.002018415601924,
+    "realized_vol": 0.0021840812876631,
+    "vol_surprise": 0.9241485714497614,
+    "momentum": 0.0014020583483419,
+    "signal": "NEUTRAL",
+    "replay_index": 408
+  },
+  {
+    "datetime": "2025-07-05 00:00:00",
+    "predicted_vol": 0.0019576246850192,
+    "realized_vol": 0.0022326050307701,
+    "vol_surprise": 0.8768343070264981,
+    "momentum": 0.0066648687922942,
+    "signal": "NEUTRAL",
+    "replay_index": 409
+  },
+  {
+    "datetime": "2025-07-05 01:00:00",
+    "predicted_vol": 0.0020263616461306,
+    "realized_vol": 0.0022556127857626,
+    "vol_surprise": 0.8983641425163786,
+    "momentum": 0.0047493500595286,
+    "signal": "NEUTRAL",
+    "replay_index": 410
+  },
+  {
+    "datetime": "2025-07-05 02:00:00",
+    "predicted_vol": 0.0020534780342131,
+    "realized_vol": 0.0022465874833794,
+    "vol_surprise": 0.9140432097147732,
+    "momentum": 0.003515053692311,
+    "signal": "NEUTRAL",
+    "replay_index": 411
+  },
+  {
+    "datetime": "2025-07-05 03:00:00",
+    "predicted_vol": 0.0020138607360422,
+    "realized_vol": 0.0022486283137355,
+    "vol_surprise": 0.8955952051927543,
+    "momentum": 0.0020133064923841,
+    "signal": "NEUTRAL",
+    "replay_index": 412
+  },
+  {
+    "datetime": "2025-07-05 04:00:00",
+    "predicted_vol": 0.0020660920999944,
+    "realized_vol": 0.0022217205274051,
+    "vol_surprise": 0.9299513933048708,
+    "momentum": -0.0006854618616468,
+    "signal": "NEUTRAL",
+    "replay_index": 413
+  },
+  {
+    "datetime": "2025-07-05 05:00:00",
+    "predicted_vol": 0.0020782693754881,
+    "realized_vol": 0.0022211251217299,
+    "vol_surprise": 0.9356831612752564,
+    "momentum": 0.0014066616946698,
+    "signal": "NEUTRAL",
+    "replay_index": 414
+  },
+  {
+    "datetime": "2025-07-05 06:00:00",
+    "predicted_vol": 0.0020398835185915,
+    "realized_vol": 0.0022291258913661,
+    "vol_surprise": 0.9151046724154795,
+    "momentum": 0.000340514697946,
+    "signal": "NEUTRAL",
+    "replay_index": 415
+  },
+  {
+    "datetime": "2025-07-05 07:00:00",
+    "predicted_vol": 0.0020129054319113,
+    "realized_vol": 0.0021762115172379,
+    "vol_surprise": 0.9249585419280196,
+    "momentum": 0.001112394804425,
+    "signal": "NEUTRAL",
+    "replay_index": 416
+  },
+  {
+    "datetime": "2025-07-05 08:00:00",
+    "predicted_vol": 0.0018564243800938,
+    "realized_vol": 0.0021700500311481,
+    "vol_surprise": 0.855475382340203,
+    "momentum": -0.0001588839928064,
+    "signal": "NEUTRAL",
+    "replay_index": 417
+  },
+  {
+    "datetime": "2025-07-05 09:00:00",
+    "predicted_vol": 0.0018226273823529,
+    "realized_vol": 0.0021271468827491,
+    "vol_surprise": 0.856841338571477,
+    "momentum": -0.000295202844969,
+    "signal": "NEUTRAL",
+    "replay_index": 418
+  },
+  {
+    "datetime": "2025-07-05 10:00:00",
+    "predicted_vol": 0.0018221671925857,
+    "realized_vol": 0.0021344688400657,
+    "vol_surprise": 0.8536864808621999,
+    "momentum": -0.00029611415658,
+    "signal": "NEUTRAL",
+    "replay_index": 419
+  },
+  {
+    "datetime": "2025-07-05 11:00:00",
+    "predicted_vol": 0.0018795175710693,
+    "realized_vol": 0.0021363220670712,
+    "vol_surprise": 0.8797913011524552,
+    "momentum": -0.0001524791843968,
+    "signal": "NEUTRAL",
+    "replay_index": 420
+  },
+  {
+    "datetime": "2025-07-05 12:00:00",
+    "predicted_vol": 0.0017438629874959,
+    "realized_vol": 0.0021271426253299,
+    "vol_surprise": 0.8198147913215168,
+    "momentum": -0.0007928538256366,
+    "signal": "NEUTRAL",
+    "replay_index": 421
+  },
+  {
+    "datetime": "2025-07-05 13:00:00",
+    "predicted_vol": 0.001705938950181,
+    "realized_vol": 0.0016267178830061,
+    "vol_surprise": 1.0486999423823928,
+    "momentum": 0.0004871208057881,
+    "signal": "NEUTRAL",
+    "replay_index": 422
+  },
+  {
+    "datetime": "2025-07-05 14:00:00",
+    "predicted_vol": 0.0017403123201802,
+    "realized_vol": 0.0015766831882162,
+    "vol_surprise": 1.1037806029689097,
+    "momentum": 0.0012210619044262,
+    "signal": "LONG",
+    "replay_index": 423
+  },
+  {
+    "datetime": "2025-07-05 15:00:00",
+    "predicted_vol": 0.0019269199110567,
+    "realized_vol": 0.0015293006086149,
+    "vol_surprise": 1.260000748186434,
+    "momentum": 1.840185937538588e-05,
+    "signal": "LONG",
+    "replay_index": 424
+  },
+  {
+    "datetime": "2025-07-05 16:00:00",
+    "predicted_vol": 0.0018990117823705,
+    "realized_vol": 0.0015292824313167,
+    "vol_surprise": 1.241766558931412,
+    "momentum": -0.0003962593374311,
+    "signal": "SHORT",
+    "replay_index": 425
+  },
+  {
+    "datetime": "2025-07-05 17:00:00",
+    "predicted_vol": 0.0017989834304898,
+    "realized_vol": 0.0014624695772017,
+    "vol_surprise": 1.2300997289338915,
+    "momentum": -0.0004084833392171,
+    "signal": "SHORT",
+    "replay_index": 426
+  },
+  {
+    "datetime": "2025-07-05 18:00:00",
+    "predicted_vol": 0.0019087309483438,
+    "realized_vol": 0.001263751623347,
+    "vol_surprise": 1.51036874104151,
+    "momentum": -0.0012965603848013,
+    "signal": "SHORT",
+    "replay_index": 427
+  },
+  {
+    "datetime": "2025-07-05 19:00:00",
+    "predicted_vol": 0.0022432203404605,
+    "realized_vol": 0.0012756035126669,
+    "vol_surprise": 1.758556101629588,
+    "momentum": 0.0001098745241621,
+    "signal": "LONG",
+    "replay_index": 428
+  },
+  {
+    "datetime": "2025-07-05 20:00:00",
+    "predicted_vol": 0.0021346744615584,
+    "realized_vol": 0.0012102857534383,
+    "vol_surprise": 1.7637772364864812,
+    "momentum": -0.0008236195028479,
+    "signal": "SHORT",
+    "replay_index": 429
+  },
+  {
+    "datetime": "2025-07-05 21:00:00",
+    "predicted_vol": 0.0020237630233168,
+    "realized_vol": 0.00115664298913,
+    "vol_surprise": 1.7496868457560733,
+    "momentum": 0.0003315361836982,
+    "signal": "LONG",
+    "replay_index": 430
+  },
+  {
+    "datetime": "2025-07-05 22:00:00",
+    "predicted_vol": 0.0020811432041227,
+    "realized_vol": 0.000949496516065,
+    "vol_surprise": 2.1918386944140487,
+    "momentum": 0.0006984870217361,
+    "signal": "LONG",
+    "replay_index": 431
+  },
+  {
+    "datetime": "2025-07-05 23:00:00",
+    "predicted_vol": 0.0021004481241106,
+    "realized_vol": 0.0008434734823043,
+    "vol_surprise": 2.4902361107693336,
+    "momentum": 0.0008021459425086,
+    "signal": "LONG",
+    "replay_index": 432
+  },
+  {
+    "datetime": "2025-07-06 00:00:00",
+    "predicted_vol": 0.002336140256375,
+    "realized_vol": 0.000765519085343,
+    "vol_surprise": 3.051707398422685,
+    "momentum": 0.0018551394997622,
+    "signal": "LONG",
+    "replay_index": 433
+  },
+  {
+    "datetime": "2025-07-06 01:00:00",
+    "predicted_vol": 0.0023939651437103,
+    "realized_vol": 0.0006015810899231,
+    "vol_surprise": 3.979455444678667,
+    "momentum": 0.0005342483099551,
+    "signal": "LONG",
+    "replay_index": 434
+  },
+  {
+    "datetime": "2025-07-06 02:00:00",
+    "predicted_vol": 0.0025858001317828,
+    "realized_vol": 0.0006151911023455,
+    "vol_surprise": 4.2032469616744415,
+    "momentum": -0.0001184003934837,
+    "signal": "SHORT",
+    "replay_index": 435
+  },
+  {
+    "datetime": "2025-07-06 03:00:00",
+    "predicted_vol": 0.0026410713326185,
+    "realized_vol": 0.000620930735754,
+    "vol_surprise": 4.253407313476124,
+    "momentum": -0.0008053983075062,
+    "signal": "SHORT",
+    "replay_index": 436
+  },
+  {
+    "datetime": "2025-07-06 04:00:00",
+    "predicted_vol": 0.0026990231126546,
+    "realized_vol": 0.0006132555811642,
+    "vol_surprise": 4.4011390936395065,
+    "momentum": -0.0016826668428977,
+    "signal": "SHORT",
+    "replay_index": 437
+  },
+  {
+    "datetime": "2025-07-06 05:00:00",
+    "predicted_vol": 0.0027006559539586,
+    "realized_vol": 0.0006139495192164,
+    "vol_surprise": 4.398824120597567,
+    "momentum": -0.0018352413516834,
+    "signal": "SHORT",
+    "replay_index": 438
+  },
+  {
+    "datetime": "2025-07-06 06:00:00",
+    "predicted_vol": 0.002842980902642,
+    "realized_vol": 0.0006492316325926,
+    "vol_surprise": 4.378993197371846,
+    "momentum": -0.0008426408468492,
+    "signal": "SHORT",
+    "replay_index": 439
+  },
+  {
+    "datetime": "2025-07-06 07:00:00",
+    "predicted_vol": 0.002770279534161,
+    "realized_vol": 0.0005946573671551,
+    "vol_surprise": 4.658614669846326,
+    "momentum": -0.0014674149056714,
+    "signal": "SHORT",
+    "replay_index": 440
+  },
+  {
+    "datetime": "2025-07-06 08:00:00",
+    "predicted_vol": 0.0028545218519866,
+    "realized_vol": 0.000594228334221,
+    "vol_surprise": 4.803745778511892,
+    "momentum": -0.0005889548475663,
+    "signal": "SHORT",
+    "replay_index": 441
+  },
+  {
+    "datetime": "2025-07-06 09:00:00",
+    "predicted_vol": 0.002942007035017,
+    "realized_vol": 0.0006286103665175,
+    "vol_surprise": 4.680175815927629,
+    "momentum": -0.0010956238908215,
+    "signal": "SHORT",
+    "replay_index": 442
+  },
+  {
+    "datetime": "2025-07-06 10:00:00",
+    "predicted_vol": 0.0030593099072575,
+    "realized_vol": 0.0006422868440557,
+    "vol_surprise": 4.763152064488138,
+    "momentum": 0.0001047842412365,
+    "signal": "LONG",
+    "replay_index": 443
+  },
+  {
+    "datetime": "2025-07-06 11:00:00",
+    "predicted_vol": 0.0031240421812981,
+    "realized_vol": 0.0006676463840795,
+    "vol_surprise": 4.67918685069337,
+    "momentum": 0.000869279850183,
+    "signal": "LONG",
+    "replay_index": 444
+  },
+  {
+    "datetime": "2025-07-06 12:00:00",
+    "predicted_vol": 0.0031642708927392,
+    "realized_vol": 0.0007127538462006,
+    "vol_surprise": 4.439500270123299,
+    "momentum": 0.0008728802265991,
+    "signal": "LONG",
+    "replay_index": 445
+  },
+  {
+    "datetime": "2025-07-06 13:00:00",
+    "predicted_vol": 0.0035002203658223,
+    "realized_vol": 0.0012099310508453,
+    "vol_surprise": 2.8929089499577834,
+    "momentum": 0.0064132440993917,
+    "signal": "LONG",
+    "replay_index": 446
+  },
+  {
+    "datetime": "2025-07-06 14:00:00",
+    "predicted_vol": 0.0035459108185023,
+    "realized_vol": 0.0012449151860895,
+    "vol_surprise": 2.8483151769081045,
+    "momentum": 0.0083183327007138,
+    "signal": "LONG",
+    "replay_index": 447
+  },
+  {
+    "datetime": "2025-07-06 15:00:00",
+    "predicted_vol": 0.0037079122848808,
+    "realized_vol": 0.0012163423495126,
+    "vol_surprise": 3.0484117291208963,
+    "momentum": 0.0093413613217794,
+    "signal": "LONG",
+    "replay_index": 448
+  },
+  {
+    "datetime": "2025-07-06 16:00:00",
+    "predicted_vol": 0.0036403648555278,
+    "realized_vol": 0.0012230768484072,
+    "vol_surprise": 2.9763991201930873,
+    "momentum": 0.0082049055458762,
+    "signal": "LONG",
+    "replay_index": 449
+  },
+  {
+    "datetime": "2025-07-06 17:00:00",
+    "predicted_vol": 0.0036782450042665,
+    "realized_vol": 0.0012225757961341,
+    "vol_surprise": 3.00860283337626,
+    "momentum": 0.0076681006388352,
+    "signal": "LONG",
+    "replay_index": 450
+  },
+  {
+    "datetime": "2025-07-06 18:00:00",
+    "predicted_vol": 0.0038483131211251,
+    "realized_vol": 0.001549282882864,
+    "vol_surprise": 2.4839318653099056,
+    "momentum": 0.0020161175938863,
+    "signal": "LONG",
+    "replay_index": 451
+  },
+  {
+    "datetime": "2025-07-06 19:00:00",
+    "predicted_vol": 0.0038942918181419,
+    "realized_vol": 0.0015442485931352,
+    "vol_surprise": 2.521803701459432,
+    "momentum": -0.0017608099200394,
+    "signal": "SHORT",
+    "replay_index": 452
+  },
+  {
+    "datetime": "2025-07-06 20:00:00",
+    "predicted_vol": 0.0040059168823063,
+    "realized_vol": 0.0015545907673486,
+    "vol_surprise": 2.5768304858380575,
+    "momentum": -0.0021806238771245,
+    "signal": "SHORT",
+    "replay_index": 453
+  },
+  {
+    "datetime": "2025-07-06 21:00:00",
+    "predicted_vol": 0.0041962680406868,
+    "realized_vol": 0.001839911743302,
+    "vol_surprise": 2.280689851544638,
+    "momentum": 0.0028970756853136,
+    "signal": "LONG",
+    "replay_index": 454
+  },
+  {
+    "datetime": "2025-07-06 22:00:00",
+    "predicted_vol": 0.0044396570883691,
+    "realized_vol": 0.0018444709271553,
+    "vol_surprise": 2.407008439659333,
+    "momentum": 0.0030203662786726,
+    "signal": "LONG",
+    "replay_index": 455
+  },
+  {
+    "datetime": "2025-07-06 23:00:00",
+    "predicted_vol": 0.004323769826442,
+    "realized_vol": 0.0018494980815979,
+    "vol_surprise": 2.337807143171725,
+    "momentum": 0.0024221300673626,
+    "signal": "LONG",
+    "replay_index": 456
+  },
+  {
+    "datetime": "2025-07-07 00:00:00",
+    "predicted_vol": 0.0044086365960538,
+    "realized_vol": 0.0020044914647357,
+    "vol_surprise": 2.1993790812349916,
+    "momentum": 0.0034735452725805,
+    "signal": "LONG",
+    "replay_index": 457
+  },
+  {
+    "datetime": "2025-07-07 01:00:00",
+    "predicted_vol": 0.0042343051172792,
+    "realized_vol": 0.0020409870781397,
+    "vol_surprise": 2.0746359262297194,
+    "momentum": 0.0045783583239088,
+    "signal": "LONG",
+    "replay_index": 458
+  },
+  {
+    "datetime": "2025-07-07 02:00:00",
+    "predicted_vol": 0.0041532381437718,
+    "realized_vol": 0.00207075437339,
+    "vol_surprise": 2.0056643111044825,
+    "momentum": 0.0059717453582437,
+    "signal": "LONG",
+    "replay_index": 459
+  },
+  {
+    "datetime": "2025-07-07 03:00:00",
+    "predicted_vol": 0.0040517635643482,
+    "realized_vol": 0.0020596348056843,
+    "vol_surprise": 1.9672242638189492,
+    "momentum": 0.0012557415680878,
+    "signal": "LONG",
+    "replay_index": 460
+  },
+  {
+    "datetime": "2025-07-07 04:00:00",
+    "predicted_vol": 0.0041173733770847,
+    "realized_vol": 0.0021330819963513,
+    "vol_surprise": 1.930246180937936,
+    "momentum": -0.0008598509892553,
+    "signal": "SHORT",
+    "replay_index": 461
+  },
+  {
+    "datetime": "2025-07-07 05:00:00",
+    "predicted_vol": 0.0040491190738976,
+    "realized_vol": 0.0021425200294843,
+    "vol_surprise": 1.8898862172467223,
+    "momentum": -0.0011775861420253,
+    "signal": "SHORT",
+    "replay_index": 462
+  },
+  {
+    "datetime": "2025-07-07 06:00:00",
+    "predicted_vol": 0.0040910546667873,
+    "realized_vol": 0.0022309753225327,
+    "vol_surprise": 1.83375164461384,
+    "momentum": -0.0005568684690899,
+    "signal": "SHORT",
+    "replay_index": 463
+  },
+  {
+    "datetime": "2025-07-07 07:00:00",
+    "predicted_vol": 0.0040383753366768,
+    "realized_vol": 0.0022740580019065,
+    "vol_surprise": 1.775845353676582,
+    "momentum": -5.156648556331857e-05,
+    "signal": "SHORT",
+    "replay_index": 464
+  },
+  {
+    "datetime": "2025-07-07 08:00:00",
+    "predicted_vol": 0.003887259401381,
+    "realized_vol": 0.0022738051678438,
+    "vol_surprise": 1.7095833259395463,
+    "momentum": -0.0029080245083594,
+    "signal": "SHORT",
+    "replay_index": 465
+  },
+  {
+    "datetime": "2025-07-07 09:00:00",
+    "predicted_vol": 0.0038976273499429,
+    "realized_vol": 0.0022985956347362,
+    "vol_surprise": 1.695655943586653,
+    "momentum": -0.0050239768807973,
+    "signal": "SHORT",
+    "replay_index": 466
+  },
+  {
+    "datetime": "2025-07-07 10:00:00",
+    "predicted_vol": 0.0038987796287983,
+    "realized_vol": 0.0023292865778214,
+    "vol_surprise": 1.6738084810692444,
+    "momentum": -0.0042719730103328,
+    "signal": "SHORT",
+    "replay_index": 467
+  },
+  {
+    "datetime": "2025-07-07 11:00:00",
+    "predicted_vol": 0.003875606926158,
+    "realized_vol": 0.0023279528124922,
+    "vol_surprise": 1.664813352470393,
+    "momentum": -0.0039438833261651,
+    "signal": "SHORT",
+    "replay_index": 468
+  },
+  {
+    "datetime": "2025-07-07 12:00:00",
+    "predicted_vol": 0.0039301882497966,
+    "realized_vol": 0.0024049284738044,
+    "vol_surprise": 1.6342225112331032,
+    "momentum": -0.0041300878163649,
+    "signal": "SHORT",
+    "replay_index": 469
+  },
+  {
+    "datetime": "2025-07-07 13:00:00",
+    "predicted_vol": 0.003937603905797,
+    "realized_vol": 0.0022129699899644,
+    "vol_surprise": 1.7793300061246302,
+    "momentum": -0.0050293815778892,
+    "signal": "SHORT",
+    "replay_index": 470
+  },
+  {
+    "datetime": "2025-07-07 14:00:00",
+    "predicted_vol": 0.0039972085505723,
+    "realized_vol": 0.0022638562311633,
+    "vol_surprise": 1.7656636033456177,
+    "momentum": -0.0079827623997671,
+    "signal": "SHORT",
+    "replay_index": 471
+  },
+  {
+    "datetime": "2025-07-07 15:00:00",
+    "predicted_vol": 0.0039938641712069,
+    "realized_vol": 0.002277849706768,
+    "vol_surprise": 1.7533484142260471,
+    "momentum": -0.005243435657749,
+    "signal": "SHORT",
+    "replay_index": 472
+  },
+  {
+    "datetime": "2025-07-07 16:00:00",
+    "predicted_vol": 0.0039941305294632,
+    "realized_vol": 0.0023593579248455,
+    "vol_surprise": 1.6928887674915776,
+    "momentum": -0.0069355868261758,
+    "signal": "SHORT",
+    "replay_index": 473
+  },
+  {
+    "datetime": "2025-07-07 17:00:00",
+    "predicted_vol": 0.0040727350860834,
+    "realized_vol": 0.0023568735524938,
+    "vol_surprise": 1.7280244337987591,
+    "momentum": -0.0065775003952428,
+    "signal": "SHORT",
+    "replay_index": 474
+  },
+  {
+    "datetime": "2025-07-07 18:00:00",
+    "predicted_vol": 0.0040094433352351,
+    "realized_vol": 0.0021966096752261,
+    "vol_surprise": 1.825287114253615,
+    "momentum": -0.0031092731122335,
+    "signal": "SHORT",
+    "replay_index": 475
+  },
+  {
+    "datetime": "2025-07-07 19:00:00",
+    "predicted_vol": 0.0039947400800883,
+    "realized_vol": 0.0021830887843863,
+    "vol_surprise": 1.8298569021374924,
+    "momentum": -0.0046270454260465,
+    "signal": "SHORT",
+    "replay_index": 476
+  },
+  {
+    "datetime": "2025-07-07 20:00:00",
+    "predicted_vol": 0.0040488336235284,
+    "realized_vol": 0.0021683434119488,
+    "vol_surprise": 1.86724741164942,
+    "momentum": -0.0026610333459978,
+    "signal": "SHORT",
+    "replay_index": 477
+  },
+  {
+    "datetime": "2025-07-07 21:00:00",
+    "predicted_vol": 0.0041184495203197,
+    "realized_vol": 0.0019640344643839,
+    "vol_surprise": 2.096933427088093,
+    "momentum": -0.0008364502472448,
+    "signal": "SHORT",
+    "replay_index": 478
+  },
+  {
+    "datetime": "2025-07-07 22:00:00",
+    "predicted_vol": 0.004075052216649,
+    "realized_vol": 0.0019799810708407,
+    "vol_surprise": 2.058126856191954,
+    "momentum": 0.0007622986540965,
+    "signal": "LONG",
+    "replay_index": 479
+  },
+  {
+    "datetime": "2025-07-07 23:00:00",
+    "predicted_vol": 0.0041237636469304,
+    "realized_vol": 0.0020728593724463,
+    "vol_surprise": 1.9894083032095111,
+    "momentum": 0.0032055406304845,
+    "signal": "LONG",
+    "replay_index": 480
+  },
+  {
+    "datetime": "2025-07-08 00:00:00",
+    "predicted_vol": 0.0039835684001445,
+    "realized_vol": 0.0019708924859031,
+    "vol_surprise": 2.0212002575671644,
+    "momentum": 0.0029608147534293,
+    "signal": "LONG",
+    "replay_index": 481
+  },
+  {
+    "datetime": "2025-07-08 01:00:00",
+    "predicted_vol": 0.0040751956403255,
+    "realized_vol": 0.0022115790663405,
+    "vol_surprise": 1.8426633270085315,
+    "momentum": -0.0030828053386096,
+    "signal": "SHORT",
+    "replay_index": 482
+  },
+  {
+    "datetime": "2025-07-08 02:00:00",
+    "predicted_vol": 0.0039231060072779,
+    "realized_vol": 0.0021242923724697,
+    "vol_surprise": 1.8467825136127072,
+    "momentum": -0.0011574811808593,
+    "signal": "SHORT",
+    "replay_index": 483
+  },
+  {
+    "datetime": "2025-07-08 03:00:00",
+    "predicted_vol": 0.0038133175112307,
+    "realized_vol": 0.0021465365884772,
+    "vol_surprise": 1.7764977926306027,
+    "momentum": -0.0027898332002863,
+    "signal": "SHORT",
+    "replay_index": 484
+  },
+  {
+    "datetime": "2025-07-08 04:00:00",
+    "predicted_vol": 0.0037399909924715,
+    "realized_vol": 0.0021353996499168,
+    "vol_surprise": 1.751424372771273,
+    "momentum": -0.0001534039241269,
+    "signal": "SHORT",
+    "replay_index": 485
+  },
+  {
+    "datetime": "2025-07-08 05:00:00",
+    "predicted_vol": 0.0037372950464487,
+    "realized_vol": 0.0021858039610408,
+    "vol_surprise": 1.7098034009733318,
+    "momentum": -0.0008291975355531,
+    "signal": "SHORT",
+    "replay_index": 486
+  },
+  {
+    "datetime": "2025-07-08 06:00:00",
+    "predicted_vol": 0.0036771125160157,
+    "realized_vol": 0.00213415735143,
+    "vol_surprise": 1.7229809758646644,
+    "momentum": -0.0002482367524206,
+    "signal": "SHORT",
+    "replay_index": 487
+  },
+  {
+    "datetime": "2025-07-08 07:00:00",
+    "predicted_vol": 0.0036494834348559,
+    "realized_vol": 0.0021078275067831,
+    "vol_surprise": 1.731395677830195,
+    "momentum": 0.007721027084222,
+    "signal": "LONG",
+    "replay_index": 488
+  },
+  {
+    "datetime": "2025-07-08 08:00:00",
+    "predicted_vol": 0.003648453624919,
+    "realized_vol": 0.0021500972978427,
+    "vol_surprise": 1.696878382471211,
+    "momentum": 0.0046967958767125,
+    "signal": "LONG",
+    "replay_index": 489
+  },
+  {
+    "datetime": "2025-07-08 09:00:00",
+    "predicted_vol": 0.0036085208412259,
+    "realized_vol": 0.0021606635415624,
+    "vol_surprise": 1.6700984543926438,
+    "momentum": 0.005182428710178,
+    "signal": "LONG",
+    "replay_index": 490
+  },
+  {
+    "datetime": "2025-07-08 10:00:00",
+    "predicted_vol": 0.0036776917986571,
+    "realized_vol": 0.0022562818790299,
+    "vol_surprise": 1.6299788749082933,
+    "momentum": 0.0076306715904712,
+    "signal": "LONG",
+    "replay_index": 491
+  },
+  {
+    "datetime": "2025-07-08 11:00:00",
+    "predicted_vol": 0.0035426935646682,
+    "realized_vol": 0.0022580614327133,
+    "vol_surprise": 1.5689092924328765,
+    "momentum": 0.005288520583204,
+    "signal": "LONG",
+    "replay_index": 492
+  },
+  {
+    "datetime": "2025-07-08 12:00:00",
+    "predicted_vol": 0.0035305139608681,
+    "realized_vol": 0.0021831837681843,
+    "vol_surprise": 1.6171400741973527,
+    "momentum": 0.0060103334981765,
+    "signal": "LONG",
+    "replay_index": 493
+  },
+  {
+    "datetime": "2025-07-08 13:00:00",
+    "predicted_vol": 0.003574148286134,
+    "realized_vol": 0.0021702825806251,
+    "vol_surprise": 1.6468584865591305,
+    "momentum": 0.0051005591057813,
+    "signal": "LONG",
+    "replay_index": 494
+  },
+  {
+    "datetime": "2025-07-08 14:00:00",
+    "predicted_vol": 0.0035817625466734,
+    "realized_vol": 0.002468197664465,
+    "vol_surprise": 1.4511651956569556,
+    "momentum": 0.0010012611913818,
+    "signal": "LONG",
+    "replay_index": 495
+  },
+  {
+    "datetime": "2025-07-08 15:00:00",
+    "predicted_vol": 0.003531944239512,
+    "realized_vol": 0.0024722283230676,
+    "vol_surprise": 1.4286480769419767,
+    "momentum": -0.0017459053112294,
+    "signal": "SHORT",
+    "replay_index": 496
+  },
+  {
+    "datetime": "2025-07-08 16:00:00",
+    "predicted_vol": 0.0035662481095641,
+    "realized_vol": 0.0023986649302004,
+    "vol_surprise": 1.4867637679040502,
+    "momentum": -0.0033146210433367,
+    "signal": "SHORT",
+    "replay_index": 497
+  },
+  {
+    "datetime": "2025-07-08 17:00:00",
+    "predicted_vol": 0.003655448090285,
+    "realized_vol": 0.0025747128159307,
+    "vol_surprise": 1.419749832939576,
+    "momentum": 0.0019661945267393,
+    "signal": "LONG",
+    "replay_index": 498
+  },
+  {
+    "datetime": "2025-07-08 18:00:00",
+    "predicted_vol": 0.0035428705159574,
+    "realized_vol": 0.0025821600149559,
+    "vol_surprise": 1.3720569195700607,
+    "momentum": 0.0017709193591805,
+    "signal": "LONG",
+    "replay_index": 499
+  },
+  {
+    "datetime": "2025-07-08 19:00:00",
+    "predicted_vol": 0.0037660356611013,
+    "realized_vol": 0.0026701969014578,
+    "vol_surprise": 1.4103962367139382,
+    "momentum": -0.002380241042384,
+    "signal": "SHORT",
+    "replay_index": 500
+  },
+  {
+    "datetime": "2025-07-08 20:00:00",
+    "predicted_vol": 0.0036406421568244,
+    "realized_vol": 0.0026697407303798,
+    "vol_surprise": 1.3636688070105056,
+    "momentum": 0.0028368094644258,
+    "signal": "LONG",
+    "replay_index": 501
+  },
+  {
+    "datetime": "2025-07-08 21:00:00",
+    "predicted_vol": 0.0036980283912271,
+    "realized_vol": 0.00264007794235,
+    "vol_surprise": 1.40072697548292,
+    "momentum": 0.0058487666416554,
+    "signal": "LONG",
+    "replay_index": 502
+  },
+  {
+    "datetime": "2025-07-08 22:00:00",
+    "predicted_vol": 0.003622185671702,
+    "realized_vol": 0.0026076886327408,
+    "vol_surprise": 1.389040710698244,
+    "momentum": 0.0042999439547267,
+    "signal": "LONG",
+    "replay_index": 503
+  },
+  {
+    "datetime": "2025-07-08 23:00:00",
+    "predicted_vol": 0.0035607574973255,
+    "realized_vol": 0.0025660030804436,
+    "vol_surprise": 1.3876668833577208,
+    "momentum": -0.000254890805569,
+    "signal": "SHORT",
+    "replay_index": 504
+  },
+  {
+    "datetime": "2025-07-09 00:00:00",
+    "predicted_vol": 0.003496122546494,
+    "realized_vol": 0.0025668898915845,
+    "vol_surprise": 1.3620072126801712,
+    "momentum": -0.0016907721185837,
+    "signal": "SHORT",
+    "replay_index": 505
+  },
+  {
+    "datetime": "2025-07-09 01:00:00",
+    "predicted_vol": 0.0034854998812079,
+    "realized_vol": 0.0022451600295115,
+    "vol_surprise": 1.5524505315401804,
+    "momentum": 9.07205333690814e-05,
+    "signal": "LONG",
+    "replay_index": 506
+  },
+  {
+    "datetime": "2025-07-09 02:00:00",
+    "predicted_vol": 0.0034282484557479,
+    "realized_vol": 0.0022952470937084,
+    "vol_surprise": 1.4936293635422653,
+    "momentum": -0.0006701245146007,
+    "signal": "SHORT",
+    "replay_index": 507
+  },
+  {
+    "datetime": "2025-07-09 03:00:00",
+    "predicted_vol": 0.003450060961768,
+    "realized_vol": 0.0023540950086063,
+    "vol_surprise": 1.46555723076381,
+    "momentum": -0.0049829167190622,
+    "signal": "SHORT",
+    "replay_index": 508
+  },
+  {
+    "datetime": "2025-07-09 04:00:00",
+    "predicted_vol": 0.0035396746825426,
+    "realized_vol": 0.0023639118825752,
+    "vol_surprise": 1.4973801302130143,
+    "momentum": -0.0038002595402398,
+    "signal": "SHORT",
+    "replay_index": 509
+  },
+  {
+    "datetime": "2025-07-09 05:00:00",
+    "predicted_vol": 0.0036027440801262,
+    "realized_vol": 0.0023982991680568,
+    "vol_surprise": 1.5022079514147264,
+    "momentum": -0.0012824037361975,
+    "signal": "SHORT",
+    "replay_index": 510
+  },
+  {
+    "datetime": "2025-07-09 06:00:00",
+    "predicted_vol": 0.0035164258442819,
+    "realized_vol": 0.0023951824636316,
+    "vol_surprise": 1.4681244112609937,
+    "momentum": -0.0011715965082853,
+    "signal": "SHORT",
+    "replay_index": 511
+  },
+  {
+    "datetime": "2025-07-09 07:00:00",
+    "predicted_vol": 0.0035462009254842,
+    "realized_vol": 0.0023671364298462,
+    "vol_surprise": 1.4980973976707364,
+    "momentum": -0.0009394412845852,
+    "signal": "SHORT",
+    "replay_index": 512
+  },
+  {
+    "datetime": "2025-07-09 08:00:00",
+    "predicted_vol": 0.0035432213917374,
+    "realized_vol": 0.0023141436190674,
+    "vol_surprise": 1.5311155982468048,
+    "momentum": 0.0007976208934071,
+    "signal": "LONG",
+    "replay_index": 513
+  },
+  {
+    "datetime": "2025-07-09 09:00:00",
+    "predicted_vol": 0.0035305409692227,
+    "realized_vol": 0.0022947413190833,
+    "vol_surprise": 1.538535494115342,
+    "momentum": 0.0037708635329231,
+    "signal": "LONG",
+    "replay_index": 514
+  },
+  {
+    "datetime": "2025-07-09 10:00:00",
+    "predicted_vol": 0.0035286860074847,
+    "realized_vol": 0.002193326218226,
+    "vol_surprise": 1.608828626659467,
+    "momentum": 0.003224860360419,
+    "signal": "LONG",
+    "replay_index": 515
+  },
+  {
+    "datetime": "2025-07-09 11:00:00",
+    "predicted_vol": 0.0036670749541372,
+    "realized_vol": 0.0022296728944194,
+    "vol_surprise": 1.6446694774446249,
+    "momentum": 0.00253782735365,
+    "signal": "LONG",
+    "replay_index": 516
+  },
+  {
+    "datetime": "2025-07-09 12:00:00",
+    "predicted_vol": 0.0038498004432767,
+    "realized_vol": 0.0022378321777261,
+    "vol_surprise": 1.7203258053016888,
+    "momentum": 0.0043264187775878,
+    "signal": "LONG",
+    "replay_index": 517
+  },
+  {
+    "datetime": "2025-07-09 13:00:00",
+    "predicted_vol": 0.0036506422329694,
+    "realized_vol": 0.0022401340980108,
+    "vol_surprise": 1.6296534373594256,
+    "momentum": 0.0040158879824544,
+    "signal": "LONG",
+    "replay_index": 518
+  },
+  {
+    "datetime": "2025-07-09 14:00:00",
+    "predicted_vol": 0.0037401102017611,
+    "realized_vol": 0.0018645595039093,
+    "vol_surprise": 2.0058947938745813,
+    "momentum": 0.0017148830247422,
+    "signal": "LONG",
+    "replay_index": 519
+  },
+  {
+    "datetime": "2025-07-09 15:00:00",
+    "predicted_vol": 0.0037197729106992,
+    "realized_vol": 0.0018718531496668,
+    "vol_surprise": 1.987214067172557,
+    "momentum": 0.0029881568202343,
+    "signal": "LONG",
+    "replay_index": 520
+  },
+  {
+    "datetime": "2025-07-09 16:00:00",
+    "predicted_vol": 0.0037404340691864,
+    "realized_vol": 0.001931991584331,
+    "vol_surprise": 1.9360509121894316,
+    "momentum": 0.0051379206902279,
+    "signal": "LONG",
+    "replay_index": 521
+  },
+  {
+    "datetime": "2025-07-09 17:00:00",
+    "predicted_vol": 0.0036382258404046,
+    "realized_vol": 0.0017512927332872,
+    "vol_surprise": 2.0774515712033885,
+    "momentum": 0.0009273507957871,
+    "signal": "LONG",
+    "replay_index": 522
+  },
+  {
+    "datetime": "2025-07-09 18:00:00",
+    "predicted_vol": 0.0036680891644209,
+    "realized_vol": 0.001844008866923,
+    "vol_surprise": 1.98919280173611,
+    "momentum": 0.0022548221617844,
+    "signal": "LONG",
+    "replay_index": 523
+  },
+  {
+    "datetime": "2025-07-09 19:00:00",
+    "predicted_vol": 0.0048982356674969,
+    "realized_vol": 0.0043183534908879,
+    "vol_surprise": 1.1342831655242092,
+    "momentum": 0.0231230250977436,
+    "signal": "LONG",
+    "replay_index": 524
+  },
+  {
+    "datetime": "2025-07-09 20:00:00",
+    "predicted_vol": 0.0041334903798997,
+    "realized_vol": 0.0047571911177078,
+    "vol_surprise": 0.8688930668590438,
+    "momentum": 0.0167533011437779,
+    "signal": "NEUTRAL",
+    "replay_index": 525
+  },
+  {
+    "datetime": "2025-07-09 21:00:00",
+    "predicted_vol": 0.0041675097309052,
+    "realized_vol": 0.0047521863113348,
+    "vol_surprise": 0.8769668228211096,
+    "momentum": 0.0161342780442509,
+    "signal": "NEUTRAL",
+    "replay_index": 526
+  },
+  {
+    "datetime": "2025-07-09 22:00:00",
+    "predicted_vol": 0.0042751594446599,
+    "realized_vol": 0.0048317207208849,
+    "vol_surprise": 0.8848109589986642,
+    "momentum": 0.0181141873252722,
+    "signal": "NEUTRAL",
+    "replay_index": 527
+  },
+  {
+    "datetime": "2025-07-09 23:00:00",
+    "predicted_vol": 0.0041566016152501,
+    "realized_vol": 0.0048442891480775,
+    "vol_surprise": 0.8580416007784512,
+    "momentum": 0.0193687952040712,
+    "signal": "NEUTRAL",
+    "replay_index": 528
+  },
+  {
+    "datetime": "2025-07-10 00:00:00",
+    "predicted_vol": 0.0042441892437636,
+    "realized_vol": 0.0049202385621138,
+    "vol_surprise": 0.8625982643289389,
+    "momentum": 0.0128165855457237,
+    "signal": "NEUTRAL",
+    "replay_index": 529
+  },
+  {
+    "datetime": "2025-07-10 01:00:00",
+    "predicted_vol": 0.0043545989319682,
+    "realized_vol": 0.0049291623620051,
+    "vol_surprise": 0.8834358887291337,
+    "momentum": -0.0035899929967486,
+    "signal": "NEUTRAL",
+    "replay_index": 530
+  },
+  {
+    "datetime": "2025-07-10 02:00:00",
+    "predicted_vol": 0.0043503572233021,
+    "realized_vol": 0.0049093097062897,
+    "vol_surprise": 0.8861443835430726,
+    "momentum": 0.0042680146104324,
+    "signal": "NEUTRAL",
+    "replay_index": 531
+  },
+  {
+    "datetime": "2025-07-10 03:00:00",
+    "predicted_vol": 0.0045299450866878,
+    "realized_vol": 0.0048738051732169,
+    "vol_surprise": 0.9294473056865834,
+    "momentum": 0.0021330147778231,
+    "signal": "NEUTRAL",
+    "replay_index": 532
+  },
+  {
+    "datetime": "2025-07-10 04:00:00",
+    "predicted_vol": 0.0044968188740313,
+    "realized_vol": 0.0048730637613667,
+    "vol_surprise": 0.9227908958798612,
+    "momentum": -0.0017144684747946,
+    "signal": "NEUTRAL",
+    "replay_index": 533
+  },
+  {
+    "datetime": "2025-07-10 05:00:00",
+    "predicted_vol": 0.0045087789185345,
+    "realized_vol": 0.0048700303421274,
+    "vol_surprise": 0.9258215250800372,
+    "momentum": -0.0014669194424627,
+    "signal": "NEUTRAL",
+    "replay_index": 534
+  },
+  {
+    "datetime": "2025-07-10 06:00:00",
+    "predicted_vol": 0.0045330836437642,
+    "realized_vol": 0.00486740617705,
+    "vol_surprise": 0.931314026172277,
+    "momentum": 0.0032817991585326,
+    "signal": "NEUTRAL",
+    "replay_index": 535
+  },
+  {
+    "datetime": "2025-07-10 07:00:00",
+    "predicted_vol": 0.0043997834436595,
+    "realized_vol": 0.0048542754393388,
+    "vol_surprise": 0.9063728456782444,
+    "momentum": 0.000287855590611,
+    "signal": "NEUTRAL",
+    "replay_index": 536
+  },
+  {
+    "datetime": "2025-07-10 08:00:00",
+    "predicted_vol": 0.0042972099035978,
+    "realized_vol": 0.0048552137088523,
+    "vol_surprise": 0.8850712164869072,
+    "momentum": 0.0010152555656826,
+    "signal": "NEUTRAL",
+    "replay_index": 537
+  },
+  {
+    "datetime": "2025-07-10 09:00:00",
+    "predicted_vol": 0.0044921762309968,
+    "realized_vol": 0.0049010980767912,
+    "vol_surprise": 0.9165652595831908,
+    "momentum": -0.0003660473010336,
+    "signal": "NEUTRAL",
+    "replay_index": 538
+  },
+  {
+    "datetime": "2025-07-10 10:00:00",
+    "predicted_vol": 0.0042976681143045,
+    "realized_vol": 0.0049027531251898,
+    "vol_surprise": 0.876582606663087,
+    "momentum": -0.0013470062333194,
+    "signal": "NEUTRAL",
+    "replay_index": 539
+  },
+  {
+    "datetime": "2025-07-10 11:00:00",
+    "predicted_vol": 0.0042561437003314,
+    "realized_vol": 0.0049019138560536,
+    "vol_surprise": 0.868261627053142,
+    "momentum": -0.0011273339694371,
+    "signal": "NEUTRAL",
+    "replay_index": 540
+  },
+  {
+    "datetime": "2025-07-10 12:00:00",
+    "predicted_vol": 0.0042872806079685,
+    "realized_vol": 0.0049258530202222,
+    "vol_surprise": 0.8703630803371329,
+    "momentum": -0.0044208551083519,
+    "signal": "NEUTRAL",
+    "replay_index": 541
+  },
+  {
+    "datetime": "2025-07-10 13:00:00",
+    "predicted_vol": 0.0043631638400256,
+    "realized_vol": 0.004915029874016,
+    "vol_surprise": 0.8877186816487277,
+    "momentum": -0.0049653894901411,
+    "signal": "NEUTRAL",
+    "replay_index": 542
+  },
+  {
+    "datetime": "2025-07-10 14:00:00",
+    "predicted_vol": 0.0042213900014758,
+    "realized_vol": 0.0048902283891773,
+    "vol_surprise": 0.8632296215077163,
+    "momentum": -0.0017591482116919,
+    "signal": "NEUTRAL",
+    "replay_index": 543
+  },
+  {
+    "datetime": "2025-07-10 15:00:00",
+    "predicted_vol": 0.0041031166911125,
+    "realized_vol": 0.0049093861435124,
+    "vol_surprise": 0.8357698032236996,
+    "momentum": 0.0037034381033203,
+    "signal": "NEUTRAL",
+    "replay_index": 544
+  },
+  {
+    "datetime": "2025-07-10 16:00:00",
+    "predicted_vol": 0.0045501985587179,
+    "realized_vol": 0.0052912941207844,
+    "vol_surprise": 0.8599405844488203,
+    "momentum": 0.0142043315865247,
+    "signal": "NEUTRAL",
+    "replay_index": 545
+  },
+  {
+    "datetime": "2025-07-10 17:00:00",
+    "predicted_vol": 0.0044014668092131,
+    "realized_vol": 0.0054910973274279,
+    "vol_surprise": 0.8015641586296253,
+    "momentum": 0.0239851006529767,
+    "signal": "NEUTRAL",
+    "replay_index": 546
+  },
+  {
+    "datetime": "2025-07-10 18:00:00",
+    "predicted_vol": 0.0041207349859178,
+    "realized_vol": 0.0055672576041157,
+    "vol_surprise": 0.7401732197323572,
+    "momentum": 0.0228182255813608,
+    "signal": "NEUTRAL",
+    "replay_index": 547
+  },
+  {
+    "datetime": "2025-07-10 19:00:00",
+    "predicted_vol": 0.0040711099281907,
+    "realized_vol": 0.0039878592405202,
+    "vol_surprise": 1.0208760346464856,
+    "momentum": 0.0233366869935899,
+    "signal": "NEUTRAL",
+    "replay_index": 548
+  },
+  {
+    "datetime": "2025-07-10 20:00:00",
+    "predicted_vol": 0.0039129885844886,
+    "realized_vol": 0.0034388797367028,
+    "vol_surprise": 1.137867237032368,
+    "momentum": 0.0219609330375424,
+    "signal": "LONG",
+    "replay_index": 549
+  },
+  {
+    "datetime": "2025-07-10 21:00:00",
+    "predicted_vol": 0.0047767017967998,
+    "realized_vol": 0.0059535882060586,
+    "vol_surprise": 0.8023231757847965,
+    "momentum": 0.0436627027511832,
+    "signal": "NEUTRAL",
+    "replay_index": 550
+  },
+  {
+    "datetime": "2025-07-10 22:00:00",
+    "predicted_vol": 0.0042896512895822,
+    "realized_vol": 0.0060272467525405,
+    "vol_surprise": 0.7117099175961483,
+    "momentum": 0.0292602202352602,
+    "signal": "NEUTRAL",
+    "replay_index": 551
+  },
+  {
+    "datetime": "2025-07-10 23:00:00",
+    "predicted_vol": 0.0042165075428783,
+    "realized_vol": 0.0060220120955993,
+    "vol_surprise": 0.7001825097561082,
+    "momentum": 0.0193114372114596,
+    "signal": "NEUTRAL",
+    "replay_index": 552
+  }
+]

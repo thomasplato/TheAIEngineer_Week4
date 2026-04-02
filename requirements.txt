@@ -1,0 +1,5 @@
+# Week 4 Capstone — MCP Trading Agent
+# Install: pip install -r requirements.txt
+
+websockets>=12.0      # WebSocket transport for MCP protocol
+pandas>=2.0.0         # Data handling for btc_agent_replay.csv

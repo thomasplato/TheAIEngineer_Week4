@@ -1,0 +1,21 @@
+{
+  "created": "2026-03-31T10:09:51.193120",
+  "source_model": "volatility_transformer.pt",
+  "seq_len": 64,
+  "n_rows": 6793,
+  "date_range": {
+    "start": "2025-06-17 22:00:00",
+    "end": "2026-03-28 00:00:00"
+  },
+  "strategy_params": {
+    "vol_surprise_threshold": 1.005,
+    "momentum_lookback": 6
+  },
+  "signal_counts": {
+    "NEUTRAL": 6793
+  },
+  "price_range": {
+    "min": 62786.261,
+    "max": 126117.15
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "run_metadata": {
+    "end_reason": "max_cycles",
+    "total_cycles": 500,
+    "elapsed_seconds": 2.0,
+    "cycles_per_second": 253.5,
+    "trace_file": "memory/trace.jsonl"
+  },
+  "performance": {
+    "initial_capital": 100000.0,
+    "final_value": 100244.01,
+    "pnl_usd": 244.01,
+    "pnl_pct": 0.244,
+    "final_position_btc": 0.03
+  },
+  "signal_distribution": {
+    "LONG": 166,
+    "SHORT": 166,
+    "NEUTRAL": 168
+  },
+  "action_distribution": {
+    "BUY": 0,
+    "SELL": 166,
+    "HOLD": 334
+  },
+  "date_range": {
+    "start": "2025-06-20 03:00:00",
+    "end": "2025-07-10 23:00:00"
+  }
+}
