@@ -1,7 +1,7 @@
 # Week 4 Capstone: BTC Volatility Trading Agent with MCP
 
 **Student**: Thomas Jensen, Cohort 1  
-**Course**: The AI Engineer — Core Track  
+**Course**: The AI Engineer 
 **Repository**: https://github.com/thomasplato/TheAIEngineer_Week4
 
 ---
